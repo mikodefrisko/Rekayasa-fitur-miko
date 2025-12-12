@@ -1,0 +1,501 @@
+text,rating,date,clean_text,sentiment_pred
+sangat mudah di gunakan,5,2025-12-11 02:18:14,sangat mudah di gunakan,LABEL_0
+mantap,5,2025-12-11 02:00:12,mantap,LABEL_0
+ribet tidak bisa kirim kode OTP,2,2025-12-11 01:59:52,ribet tidak bisa kirim kode otp,LABEL_2
+mantap,5,2025-12-11 01:56:39,mantap,LABEL_0
+cukup memudahkan,5,2025-12-11 01:49:36,cukup memudahkan,LABEL_0
+sangat membantu,4,2025-12-11 01:42:55,sangat membantu,LABEL_0
+"sangat mudah di gunakan, dan sangat memudahkan",5,2025-12-11 01:33:19,sangat mudah di gunakan dan sangat memudahkan,LABEL_0
+Setelah di gratiskan kok faskes nya jadi pindah ya mau pindah lagi harus nunggu 3 bulan padahal mau dipakai di faskes terdekat,1,2025-12-11 01:31:45,setelah di gratiskan kok faskes nya jadi pindah ya mau pindah lagi harus nunggu  bulan padahal mau dipakai di faskes terdekat,LABEL_2
+untuk perubahan nomor telepon yang tercantum sangat susah.. ber ulang ulang kali tdk ada kiriman otp,4,2025-12-11 01:18:29,untuk perubahan nomor telepon yang tercantum sangat susah ber ulang ulang kali tdk ada kiriman otp,LABEL_1
+"verifikasi no.Hp gk masuk² di SMS, di pilihan WA juga engga ada... Tolong perbaiki lah, Mau ambil nomor antrean aja susah bgt perkara ngisi No.Hp ndak bisa²... Broken bet Aplikasinya",1,2025-12-11 01:13:41,verifikasi nohp gk masuk² di sms di pilihan wa juga engga ada tolong perbaiki lah mau ambil nomor antrean aja susah bgt perkara ngisi nohp ndak bisa² broken bet aplikasinya,LABEL_2
+tolong di perbaiki lagi apk jkn mobile punya saya eror dan tidak bisa daftar online di faskes tingkat lanjut,5,2025-12-11 01:02:43,tolong di perbaiki lagi apk jkn mobile punya saya eror dan tidak bisa daftar online di faskes tingkat lanjut,LABEL_2
+keren,5,2025-12-11 01:01:42,keren,LABEL_0
+mudah di gunakan,5,2025-12-11 00:57:45,mudah di gunakan,LABEL_0
+👍🏻👍🏻👍🏻,5,2025-12-11 00:56:53,👍🏻👍🏻👍🏻,LABEL_0
+mantap untuk membantu pelayanan kesehatan masyarakat dan memudahkan akses berobat,5,2025-12-11 00:43:30,mantap untuk membantu pelayanan kesehatan masyarakat dan memudahkan akses berobat,LABEL_0
+memudahkan pengguna jika mau ganti paskes kesehatan tidak harus ke kantor BPJS nya lagi,4,2025-12-11 00:27:37,memudahkan pengguna jika mau ganti paskes kesehatan tidak harus ke kantor bpjs nya lagi,LABEL_0
+Sangat membantu dalam Perubahan data apapun,5,2025-12-11 00:24:00,sangat membantu dalam perubahan data apapun,LABEL_0
+"gimana sih aplikasinya ini menyusahkan sekali sejak diperbarui, padahal awal dulu mudah, sekarang ribet banget. disuruh login masukin NIK dan password tetep aja salah padahal itu Uda bener seperti yg dulu awal bikin, masuk ke lupa kata sandi disuruh masukin no hp tetap aja ga bisa jawabnya nomer sudah terdaftar, masukin email juga tetap salah. mending bikin yang masukin NIK sama nomer kartu BPJS aja napa pake ribet banget",2,2025-12-11 00:23:35,gimana sih aplikasinya ini menyusahkan sekali sejak diperbarui padahal awal dulu mudah sekarang ribet banget disuruh login masukin nik dan password tetep aja salah padahal itu uda bener seperti yg dulu awal bikin masuk ke lupa kata sandi disuruh masukin no hp tetap aja ga bisa jawabnya nomer sudah terdaftar masukin email juga tetap salah mending bikin yang masukin nik sama nomer kartu bpjs aja napa pake ribet banget,LABEL_2
+"jujur saja apk nya menyusahkan. mana tidak bisa di ss lagi. mau masuk aja susah banget, kode verify nya gak pernah dikirim-kirim.",1,2025-12-11 00:04:57,jujur saja apk nya menyusahkan mana tidak bisa di ss lagi mau masuk aja susah banget kode verify nya gak pernah dikirimkirim,LABEL_2
+"mantap, memuaskan",5,2025-12-10 23:47:59,mantap memuaskan,LABEL_0
+sangat memmbantu,5,2025-12-10 23:20:21,sangat memmbantu,LABEL_0
+top,5,2025-12-10 21:06:31,top,LABEL_0
+"Sederhana sajalah buat aplikasi mu jangan berlebihanlah, sebutkan nama untuk bulan yang lagi di bayarkan di setiap struk pembayaran biar jelas dan ingat, jangan ada lagi denda rawat inaplah biar rumah sakit tidak mempersulit pasien, kalau tidak bayar iuran cukup nonaktivkan, jika sudah dibayar langsung aktivkanlah hitungan detik, jangan banyak cengkunek²lah bpjs, programnya jangan persulit kesehatan masyarakat. BERBUAT BAIKLAH SELAGI MASIH ADA KESEMPATAN.",1,2025-12-10 20:15:54,sederhana sajalah buat aplikasi mu jangan berlebihanlah sebutkan nama untuk bulan yang lagi di bayarkan di setiap struk pembayaran biar jelas dan ingat jangan ada lagi denda rawat inaplah biar rumah sakit tidak mempersulit pasien kalau tidak bayar iuran cukup nonaktivkan jika sudah dibayar langsung aktivkanlah hitungan detik jangan banyak cengkunek²lah bpjs programnya jangan persulit kesehatan masyarakat berbuat baiklah selagi masih ada kesempatan,LABEL_2
+bisa berobat kemana saja berada,5,2025-12-10 20:14:29,bisa berobat kemana saja berada,LABEL_1
+"saya setiap bulan selalu bayar tagihan BPJS tidak pernah telat tidak pernah lupa, tp nggak tau kenapa dibulan Desember kena premi, coba saya cek info pembayaran dibulan November tidak tercatat, terakhir pembayaran bulan 10, pdhl bulan 11 saya sudah bayar, dan bukti pembayaran saya dibulan 11 itu pun masih, harus komplain kemana itu, kenapa saya masih kenapa premi juga, masa harus bayar lagi, double dong",1,2025-12-10 20:05:19,saya setiap bulan selalu bayar tagihan bpjs tidak pernah telat tidak pernah lupa tp nggak tau kenapa dibulan desember kena premi coba saya cek info pembayaran dibulan november tidak tercatat terakhir pembayaran bulan  pdhl bulan  saya sudah bayar dan bukti pembayaran saya dibulan  itu pun masih harus komplain kemana itu kenapa saya masih kenapa premi juga masa harus bayar lagi double dong,LABEL_2
+sangat membantu sekali,5,2025-12-10 18:44:52,sangat membantu sekali,LABEL_0
+"captcha gak keluar""",1,2025-12-10 18:25:17,captcha gak keluar,LABEL_2
+sangat bermanfaat dalam mengambil antrian jadi TDK lama di RS,5,2025-12-10 17:57:18,sangat bermanfaat dalam mengambil antrian jadi tdk lama di rs,LABEL_0
+kok GK bisa di buka ya los konek terus padahal wifi normal,5,2025-12-10 17:53:47,kok gk bisa di buka ya los konek terus padahal wifi normal,LABEL_2
+main naik versi makin menyusahkan...tidak bisa login captcha loading terus,1,2025-12-10 17:44:11,main naik versi makin menyusahkantidak bisa login captcha loading terus,LABEL_2
+Masa saya sudah pake wifi maupun kuota tapi masih kebaca anda offline gimna ini,2,2025-12-10 17:40:17,masa saya sudah pake wifi maupun kuota tapi masih kebaca anda offline gimna ini,LABEL_1
+"setelah update aplikasi malah suruh periksa jaringan mulu , padahal dibuat yt dll aman2 aja tapi di aplikasi suruh periksa jaringan mulu",1,2025-12-10 17:38:42,setelah update aplikasi malah suruh periksa jaringan mulu  padahal dibuat yt dll aman aja tapi di aplikasi suruh periksa jaringan mulu,LABEL_2
+"kenapa ya kalau udh tengah malam suka gangguan, loading lama bgt, malah ngga bisa di akses sama sekali. padahal internet lancar.",4,2025-12-10 17:38:39,kenapa ya kalau udh tengah malam suka gangguan loading lama bgt malah ngga bisa di akses sama sekali padahal internet lancar,LABEL_2
+"memang aplikasi paling buruk.. mau daftar rujukan aja susah periksa jaringan padahal wifi manteng trus, giliran bayar aja telat sebulan lgsung off tapi ini apkikasi bner2 najis .",1,2025-12-10 17:35:44,memang aplikasi paling buruk mau daftar rujukan aja susah periksa jaringan padahal wifi manteng trus giliran bayar aja telat sebulan lgsung off tapi ini apkikasi bner najis,LABEL_2
+kenapa saya log in tidak bisa kode capcha muter terus,1,2025-12-10 17:19:41,kenapa saya log in tidak bisa kode capcha muter terus,LABEL_1
+aplikasi biasane gunanya buat memudahkan manusia klau ini malah pempersulit🥵🥵,1,2025-12-10 17:16:12,aplikasi biasane gunanya buat memudahkan manusia klau ini malah pempersulit🥵🥵,LABEL_1
+bagus,5,2025-12-10 17:13:01,bagus,LABEL_0
+lemot,1,2025-12-10 17:10:27,lemot,LABEL_2
+aplikasi eror sudah online tapi pas buka jaringa offline,1,2025-12-10 17:06:51,aplikasi eror sudah online tapi pas buka jaringa offline,LABEL_2
+"aplikasi ampas, mau ambil antrian malah error",1,2025-12-10 17:05:59,aplikasi ampas mau ambil antrian malah error,LABEL_2
+apaan mau daftar aja capcha nya loding terus,1,2025-12-10 17:05:51,apaan mau daftar aja capcha nya loding terus,LABEL_2
+"bagaimana ini ,setelah di-update ke versi terbaru malah tak bisa login.selalu layar keluar tulisan periksa koneksi internet . padahal semua data dan koneksi WiFi full",2,2025-12-10 16:57:23,bagaimana ini setelah diupdate ke versi terbaru malah tak bisa loginselalu layar keluar tulisan periksa koneksi internet  padahal semua data dan koneksi wifi full,LABEL_2
+"waktu ada kepentingan malah gabisa di login, padahal signal lancar normal"" aja",2,2025-12-10 16:54:03,waktu ada kepentingan malah gabisa di login padahal signal lancar normal aja,LABEL_2
+"sangat mengecewakan, jaringan lancar wifi atau pakai paket data, tetapi tetap susah untuk login, captcha tidak muncul sudah di tunggu lama.., sudah di ubah jaringan, mengecewakan.., udahlah ribet..",1,2025-12-10 16:53:38,sangat mengecewakan jaringan lancar wifi atau pakai paket data tetapi tetap susah untuk login captcha tidak muncul sudah di tunggu lama sudah di ubah jaringan mengecewakan udahlah ribet,LABEL_2
+"apk kocak, mempersulit.. jaringan bagus tapi lag bat buat apa² mending di jaksehat lancar jaya...",1,2025-12-10 16:53:18,apk kocak mempersulit jaringan bagus tapi lag bat buat apa² mending di jaksehat lancar jaya,LABEL_2
+CAPTCHA MUTER MUTER TERUS GA BISA LOGIN. APLIKASI MACAM APA INI.,1,2025-12-10 16:50:56,captcha muter muter terus ga bisa login aplikasi macam apa ini,LABEL_2
+"Agak bingung kenapa setelah di upgrade bukannya semakin baik malah jd kacau. Sblm upgrade bisa screenshoot utk tiket pemeriksaan skrg sdh tdk bisa, kalau sistem baik2 sj tdk masalah tp skrg saat mau buka sll keluar cek koneksi internet smp bosen buka tutup buka aplikasi, maaf hanya punya 1 provider. Mohon diperbaiki kl bisa balik lagi bisa screenshoot",1,2025-12-10 16:50:47,agak bingung kenapa setelah di upgrade bukannya semakin baik malah jd kacau sblm upgrade bisa screenshoot utk tiket pemeriksaan skrg sdh tdk bisa kalau sistem baik sj tdk masalah tp skrg saat mau buka sll keluar cek koneksi internet smp bosen buka tutup buka aplikasi maaf hanya punya  provider mohon diperbaiki kl bisa balik lagi bisa screenshoot,LABEL_2
+"Mau login udah 3hari kaga bisa2 gara2 capthanya gak keluar2 muter terus. Sedangkan skrg mau daftar faskes 1 harus lewat JKN, nyusahin bgt ini 3hari loh bener2 GAK BISA!!",1,2025-12-10 16:33:29,mau login udah hari kaga bisa gara capthanya gak keluar muter terus sedangkan skrg mau daftar faskes  harus lewat jkn nyusahin bgt ini hari loh bener gak bisa,LABEL_2
+"setiap mau bayar cicilan dan mau lihat nomornya slalu ada aja masalah sama apk nya.knp liat apk? karna kartunya udh hilang. dan setiap mau bayar slalu di update, setelah di update bukannya makin lancar di gunakan mala akun kluar dri apk dan disuruh masukan nik. gimana klo ga bawa KTP coba?. setelah nik di masukkan mala captcha nyaa loadingnya lamaaaaaaaaaaaaa kli ujung""nya ga bisa bayar. di update atau ga di update sama aja gda gunanya.",2,2025-12-10 16:32:27,setiap mau bayar cicilan dan mau lihat nomornya slalu ada aja masalah sama apk nyaknp liat apk karna kartunya udh hilang dan setiap mau bayar slalu di update setelah di update bukannya makin lancar di gunakan mala akun kluar dri apk dan disuruh masukan nik gimana klo ga bawa ktp coba setelah nik di masukkan mala captcha nyaa loadingnya lamaaaaaaaaaaaaa kli ujungnya ga bisa bayar di update atau ga di update sama aja gda gunanya,LABEL_2
+sampah mau masih nunggu gatcha aja loading nya malam sampai subuh,1,2025-12-10 16:30:47,sampah mau masih nunggu gatcha aja loading nya malam sampai subuh,LABEL_2
+error terus gabisa digunain pake wifi atau paket data tetep aja rusakkk,1,2025-12-10 16:18:10,error terus gabisa digunain pake wifi atau paket data tetep aja rusakkk,LABEL_2
+"Indonesia, Indonesia hadeh, kapan mau maju kalo aplikasi sepenting ini aja sering eror koneksi, apa gakbisa beli server yang bagusan, sinyal aman kok buka aplikasinya gakbisa",1,2025-12-10 16:15:48,indonesia indonesia hadeh kapan mau maju kalo aplikasi sepenting ini aja sering eror koneksi apa gakbisa beli server yang bagusan sinyal aman kok buka aplikasinya gakbisa,LABEL_2
+terlalu banyak bug.,1,2025-12-10 16:12:08,terlalu banyak bug,LABEL_2
+mau log in susah min padahal udah di perbarui data masih banyak..kasih solusi min,5,2025-12-10 16:03:27,mau log in susah min padahal udah di perbarui data masih banyakkasih solusi min,LABEL_2
+kode captcha ga keluar2,1,2025-12-10 16:00:06,kode captcha ga keluar,LABEL_2
+"sangat buruk,susah untuk login, mau ngecek dan daftar akun tidak bisa, buruk banget",1,2025-12-10 15:59:39,sangat buruksusah untuk login mau ngecek dan daftar akun tidak bisa buruk banget,LABEL_2
+good,5,2025-12-10 15:59:30,good,LABEL_0
+"aplikasi pemerintah kaya gini ada aja kendalanya , captca ngga keluar lama",1,2025-12-10 15:58:57,aplikasi pemerintah kaya gini ada aja kendalanya  captca ngga keluar lama,LABEL_2
+gangguan tidak dapat diakses,1,2025-12-10 15:46:15,gangguan tidak dapat diakses,LABEL_2
+"Buruk, sering gangguan, keterangan tidak ada internet, padahal kuota banyak, buka youtube lancar, browsing dll lancar.",1,2025-12-10 15:40:10,buruk sering gangguan keterangan tidak ada internet padahal kuota banyak buka youtube lancar browsing dll lancar,LABEL_2
+kenapa ni login malah terdeteksi offline? padahal wifi on nyala terus,1,2025-12-10 15:38:20,kenapa ni login malah terdeteksi offline padahal wifi on nyala terus,LABEL_2
+susah buat login kode capca nya muter terus,1,2025-12-10 15:26:17,susah buat login kode capca nya muter terus,LABEL_2
+"aplikasi sampah gatcha muter"" doang",1,2025-12-10 15:25:15,aplikasi sampah gatcha muter doang,LABEL_2
+aplikasi gak bisa di pake,1,2025-12-10 15:20:59,aplikasi gak bisa di pake,LABEL_2
+"sangat membantu, terimakasih BPJS dan Aplikasi JKN🙏🏻🙇🏻",5,2025-12-10 15:19:28,sangat membantu terimakasih bpjs dan aplikasi jkn🙏🏻🙇🏻,LABEL_0
+"koneksi aman... buat youtube, aman buat game aman buat buka applikasi ini, kok disuruh cek koneksi? parah",1,2025-12-10 15:12:00,koneksi aman buat youtube aman buat game aman buat buka applikasi ini kok disuruh cek koneksi parah,LABEL_2
+bagus,5,2025-12-10 15:02:19,bagus,LABEL_0
+mobile jkn memudahkan pelayanan,5,2025-12-10 15:01:14,mobile jkn memudahkan pelayanan,LABEL_1
+"Kemajuan aplikasi mobile jkn lebih bagus lagi, semogga selalu update lebih bagus lagi",5,2025-12-10 14:58:40,kemajuan aplikasi mobile jkn lebih bagus lagi semogga selalu update lebih bagus lagi,LABEL_0
+membantu,5,2025-12-10 14:52:46,membantu,LABEL_0
+oke,5,2025-12-10 14:27:08,oke,LABEL_0
+ok,5,2025-12-10 14:26:23,ok,LABEL_0
+sangat praktis,5,2025-12-10 14:23:21,sangat praktis,LABEL_0
+bagus,5,2025-12-10 14:08:39,bagus,LABEL_0
+bagus dan sangat memudahkan,5,2025-12-10 14:08:11,bagus dan sangat memudahkan,LABEL_0
+bgus,5,2025-12-10 14:06:23,bgus,LABEL_0
+"untuk verifikasi wajah aja susah apa lagi untuk ke lainnya, apanya yang membantu apa nya yang mempermudah tapi apa ternyata kaya gini aneh",1,2025-12-10 13:41:42,untuk verifikasi wajah aja susah apa lagi untuk ke lainnya apanya yang membantu apa nya yang mempermudah tapi apa ternyata kaya gini aneh,LABEL_2
+sangat bagus,5,2025-12-10 13:40:23,sangat bagus,LABEL_0
+sangat membantu dan sangat mudah di gunakan,5,2025-12-10 13:27:34,sangat membantu dan sangat mudah di gunakan,LABEL_0
+"udah bayar tagihan tepat waktu, bahkan lebih awal sebelum jatuh tempo di tanggal 10. tiap gajian tgl 28 langsung bayar bisa2 nya 2x tagihan ga di hitung bln oktober dan november ga di hitung padahal usah bayar tagihan nya bisa2 nya kirim chat bahwasanya blm di bayar bed banget",1,2025-12-10 13:21:01,udah bayar tagihan tepat waktu bahkan lebih awal sebelum jatuh tempo di tanggal  tiap gajian tgl  langsung bayar bisa nya x tagihan ga di hitung bln oktober dan november ga di hitung padahal usah bayar tagihan nya bisa nya kirim chat bahwasanya blm di bayar bed banget,LABEL_2
+"Tidak bisa digunakan, emang saya lupa paswordnya, begitu cari cara lain lupa pasword via SMS mlah ga di kirim2 OTP nya gimana sich,,",1,2025-12-10 13:20:51,tidak bisa digunakan emang saya lupa paswordnya begitu cari cara lain lupa pasword via sms mlah ga di kirim otp nya gimana sich,LABEL_2
+sangat membantu,5,2025-12-10 13:20:45,sangat membantu,LABEL_0
+top,5,2025-12-10 13:03:24,top,LABEL_0
+bagus,4,2025-12-10 12:32:57,bagus,LABEL_0
+aplikasinya ngeleg butuh perbaikan lagi,5,2025-12-10 12:26:52,aplikasinya ngeleg butuh perbaikan lagi,LABEL_2
+bagus,5,2025-12-10 12:07:48,bagus,LABEL_0
+bgus,5,2025-12-10 11:59:47,bgus,LABEL_0
+sangat membantu,5,2025-12-10 11:52:12,sangat membantu,LABEL_0
+jos,5,2025-12-10 11:44:46,jos,LABEL_0
+good,5,2025-12-10 11:31:01,good,LABEL_0
+sangat membantu,5,2025-12-10 11:26:59,sangat membantu,LABEL_0
+aplikasinya mantap banget. 👍,5,2025-12-10 10:59:21,aplikasinya mantap banget 👍,LABEL_0
+lumayan mempermudah,4,2025-12-10 10:53:32,lumayan mempermudah,LABEL_0
+org berobat di persulit. sdh miskin x indonesia rupanya.,1,2025-12-10 10:42:54,org berobat di persulit sdh miskin x indonesia rupanya,LABEL_2
+aplikasi nya sangat membantu masyarakat...,5,2025-12-10 10:41:36,aplikasi nya sangat membantu masyarakat,LABEL_0
+mantap,5,2025-12-10 10:30:54,mantap,LABEL_0
+"baru mau berobat,eh dibatasi buat pendaftaran nya,gmna psien UGD...gx bsa ngebayangkan,jadwal control bsa terhambat lw di batasi",3,2025-12-10 10:30:05,baru mau berobateh dibatasi buat pendaftaran nyagmna psien ugdgx bsa ngebayangkanjadwal control bsa terhambat lw di batasi,LABEL_2
+enak dan gampang menggunakannya,5,2025-12-10 10:20:25,enak dan gampang menggunakannya,LABEL_0
+aplikasi sangat baik,5,2025-12-10 10:15:28,aplikasi sangat baik,LABEL_0
+Top,5,2025-12-10 10:00:44,top,LABEL_0
+"aplikasi layanan masyarakat seharusnya lebih memadai dan lancar saat penggunaan, untuk verifikasi terlalu ribet dan sering terjadi kesalahan. tolong perbaiki aplikasi ini agar lebih praktis digunakan.",2,2025-12-10 09:51:38,aplikasi layanan masyarakat seharusnya lebih memadai dan lancar saat penggunaan untuk verifikasi terlalu ribet dan sering terjadi kesalahan tolong perbaiki aplikasi ini agar lebih praktis digunakan,LABEL_2
+pelayanan nya jelek rujukan masih aktif tidak bisa di gunakan,1,2025-12-10 09:39:48,pelayanan nya jelek rujukan masih aktif tidak bisa di gunakan,LABEL_2
+sangat membantu,5,2025-12-10 09:36:15,sangat membantu,LABEL_0
+Mudah mengakses dan merubah data,5,2025-12-10 08:47:40,mudah mengakses dan merubah data,LABEL_0
+kok nggk bisa kebuka knp ya padahal saya di sini ikut JKN Mbayar bukan gratis dr pemerintah.... saya mbayarnya lewat potongan upah dr hasil buruh di PT Unggul Jaya Jepon Blora BLORA... TP KENAPA JMO SAYA JUGA NGGAK BISA DI BUKA PD HAL SAYA BUKAN GRATIS IKUT JMO MAUPUN JKN MOBIL KENAPA SEMUA APLIKASINYA NGGAK BISA DI BUKA....PELAYANANNYA JELEK.... INI SAYA BUKAN KASIH IBU KEPADA BETA LO SAYA BENAR BENAR MBAYAR PAKAI UANG BUKAN PAKAI DAUN KOK APLIKASINYA SEMUA NGGK BISA DI BUKA,5,2025-12-10 08:44:40,kok nggk bisa kebuka knp ya padahal saya di sini ikut jkn mbayar bukan gratis dr pemerintah saya mbayarnya lewat potongan upah dr hasil buruh di pt unggul jaya jepon blora blora tp kenapa jmo saya juga nggak bisa di buka pd hal saya bukan gratis ikut jmo maupun jkn mobil kenapa semua aplikasinya nggak bisa di bukapelayanannya jelek ini saya bukan kasih ibu kepada beta lo saya benar benar mbayar pakai uang bukan pakai daun kok aplikasinya semua nggk bisa di buka,LABEL_2
+knp mau masuk aplikasi ga bs terus angka nik beda terus padahal sama biasanya kupakai nik sesuai KTP,4,2025-12-10 08:27:51,knp mau masuk aplikasi ga bs terus angka nik beda terus padahal sama biasanya kupakai nik sesuai ktp,LABEL_1
+sangat baik dan efisien,5,2025-12-10 08:17:35,sangat baik dan efisien,LABEL_0
+sangat membantu,5,2025-12-10 08:16:45,sangat membantu,LABEL_0
+mantap sangat membantu,5,2025-12-10 08:15:29,mantap sangat membantu,LABEL_0
+ok,5,2025-12-10 08:05:24,ok,LABEL_0
+mau daftar akun tidak bisa ada notif no hp anda telah di gunakan oleh peserta lain (bagai mana jika ada peserta yg salah masukan no hp nya ) jangan mempersulit donk aplikasi nya perbaiki lagih jangan mempersulit rakyat,1,2025-12-10 07:47:47,mau daftar akun tidak bisa ada notif no hp anda telah di gunakan oleh peserta lain bagai mana jika ada peserta yg salah masukan no hp nya  jangan mempersulit donk aplikasi nya perbaiki lagih jangan mempersulit rakyat,LABEL_2
+pusing make nya,3,2025-12-10 07:33:39,pusing make nya,LABEL_2
+pelayana yg cepat,5,2025-12-10 07:28:18,pelayana yg cepat,LABEL_0
+sangat memudahkan untuk data2 perserta dan lebih efisien dalam waktu.,5,2025-12-10 07:24:52,sangat memudahkan untuk data perserta dan lebih efisien dalam waktu,LABEL_0
+nge scan wajah aja g bisa,1,2025-12-10 07:07:09,nge scan wajah aja g bisa,LABEL_2
+sangat membantu,5,2025-12-10 06:48:45,sangat membantu,LABEL_0
+"captcha tidak muncul, serta susah login",1,2025-12-10 06:29:06,captcha tidak muncul serta susah login,LABEL_1
+"payah payah payah, aplikasi pemerintah kenapa selalu payah. sering logout ga jelas. mau daftar faskes harus daftar ulang dulu karena logout. mau login dipersusah, Nik salah lah, pasword salah lah. payah!!!!!!!",1,2025-12-10 06:04:11,payah payah payah aplikasi pemerintah kenapa selalu payah sering logout ga jelas mau daftar faskes harus daftar ulang dulu karena logout mau login dipersusah nik salah lah pasword salah lah payah,LABEL_2
+mntap🙏🙏,5,2025-12-10 05:55:58,mntap🙏🙏,LABEL_0
+Sangat baik,5,2025-12-10 05:43:06,sangat baik,LABEL_0
+baik,5,2025-12-10 05:28:09,baik,LABEL_0
+sekarang kok gak kaya dulu yah jkn nya malah suruh daftar lagi .dulu aman aman aja daftar sekali bisa dipakai lama tinggal masuk.sekrang knpa ribet bgt min,4,2025-12-10 05:24:44,sekarang kok gak kaya dulu yah jkn nya malah suruh daftar lagi dulu aman aman aja daftar sekali bisa dipakai lama tinggal masuksekrang knpa ribet bgt min,LABEL_2
+Aplikasi yg sangat membantu!!,5,2025-12-10 05:20:39,aplikasi yg sangat membantu,LABEL_0
+gabisa login aplikasi pemerintah ga guna ini mau sampai kapan seperti ini terus?,1,2025-12-10 05:17:32,gabisa login aplikasi pemerintah ga guna ini mau sampai kapan seperti ini terus,LABEL_2
+bikin dongkol setiap buka aplikasi ribet kudung masukin no KTP kalo pasword wajar ga praktis masih bloon ni aplikasi ditambah ga singkron Ama paskesmya dah ambil no antrian lewat aplikasi pas udah sampe tempat katanya dah tutup padahal baru jam 11 di aplikasinya tutup jam 13.30 nih gimana yg oon aplikasinya apa paskesnya,1,2025-12-10 05:06:47,bikin dongkol setiap buka aplikasi ribet kudung masukin no ktp kalo pasword wajar ga praktis masih bloon ni aplikasi ditambah ga singkron ama paskesmya dah ambil no antrian lewat aplikasi pas udah sampe tempat katanya dah tutup padahal baru jam  di aplikasinya tutup jam  nih gimana yg oon aplikasinya apa paskesnya,LABEL_2
+sangat membantu untuk orang yang sedang sakit,5,2025-12-10 04:53:17,sangat membantu untuk orang yang sedang sakit,LABEL_0
+bagus sangat membantu,5,2025-12-10 04:52:36,bagus sangat membantu,LABEL_0
+sangat puass,5,2025-12-10 04:48:26,sangat puass,LABEL_0
+bagus,5,2025-12-10 04:46:42,bagus,LABEL_0
+mantap,5,2025-12-10 04:42:50,mantap,LABEL_0
+lelet,1,2025-12-10 04:41:00,lelet,LABEL_2
+bermanfaat,5,2025-12-10 04:38:21,bermanfaat,LABEL_0
+okey,5,2025-12-10 04:34:16,okey,LABEL_0
+Mudah dipahami,5,2025-12-10 04:31:55,mudah dipahami,LABEL_0
+"ada pertanyaan kalo permintaan tidak diizinkan, apa yang bermasalah?",2,2025-12-10 04:23:44,ada pertanyaan kalo permintaan tidak diizinkan apa yang bermasalah,LABEL_2
+sangat bagus dan bermanfaat untuk rakyat dan masyarakat,5,2025-12-10 04:19:47,sangat bagus dan bermanfaat untuk rakyat dan masyarakat,LABEL_0
+"berhasil login masuk, tapi kenapa saat mau buka beberapa fitur tulisannya anda tidak diizinkan.. mau daftar antrean online tidak bisa",2,2025-12-10 04:10:47,berhasil login masuk tapi kenapa saat mau buka beberapa fitur tulisannya anda tidak diizinkan mau daftar antrean online tidak bisa,LABEL_1
+aplikasi bagus dan membantu,5,2025-12-10 04:10:41,aplikasi bagus dan membantu,LABEL_0
+aplikasi yg bagus,5,2025-12-10 04:00:01,aplikasi yg bagus,LABEL_0
+"masa pas mau cek in di RS data kepesertaan di jkn mobilenya malah hilang, padahal sdh daftar online.",1,2025-12-10 03:53:44,masa pas mau cek in di rs data kepesertaan di jkn mobilenya malah hilang padahal sdh daftar online,LABEL_1
+"ngurusin penambahan peserta di via web online sangat susah,padahal sudah 2 x membayar peserta yang di tambahkan, di perbaiki web nya kerja yang bener jangan sering main2 kamu di bayar nya gak main2",1,2025-12-10 03:53:13,ngurusin penambahan peserta di via web online sangat susahpadahal sudah  x membayar peserta yang di tambahkan di perbaiki web nya kerja yang bener jangan sering main kamu di bayar nya gak main,LABEL_2
+semakin mudah,5,2025-12-10 03:37:15,semakin mudah,LABEL_0
+"ini kenapa tiba"" ke-logout sendiri ya? terus pas mau masuk, captcha-nya muter"" loading doang ga bisa""",2,2025-12-10 03:28:51,ini kenapa tiba kelogout sendiri ya terus pas mau masuk captchanya muter loading doang ga bisa,LABEL_2
+apk lemotttt,1,2025-12-10 03:25:22,apk lemotttt,LABEL_2
+"aplikasi jkn loading gak ngebuka, error",1,2025-12-10 03:24:49,aplikasi jkn loading gak ngebuka error,LABEL_2
+kenapa sering logout sendiri dan jika masuk malah dipersulit,1,2025-12-10 03:22:18,kenapa sering logout sendiri dan jika masuk malah dipersulit,LABEL_2
+lawak gbisa login. ktrngan offline mlu,1,2025-12-10 03:20:19,lawak gbisa login ktrngan offline mlu,LABEL_2
+"begus ,sangat membantu dalam pendaftaran pelayanan kesehatan . tapi aplikasinya sering error. sering logout sendiri padahal masih beberapa menit login. sering error ofline, padaahal sinyal aman. kadang ngeblank putih tidak bisa diapa apain. ini karena banyak yang menggunakan atau masalah servernya saya kurang paham.",4,2025-12-10 03:19:00,begus sangat membantu dalam pendaftaran pelayanan kesehatan  tapi aplikasinya sering error sering logout sendiri padahal masih beberapa menit login sering error ofline padaahal sinyal aman kadang ngeblank putih tidak bisa diapa apain ini karena banyak yang menggunakan atau masalah servernya saya kurang paham,LABEL_2
+good,5,2025-12-10 03:11:02,good,LABEL_0
+bisa mempermudah layanan tapi sering lemot,5,2025-12-10 03:10:35,bisa mempermudah layanan tapi sering lemot,LABEL_2
+ok,5,2025-12-10 03:09:27,ok,LABEL_0
+sangat membantu,5,2025-12-10 03:00:59,sangat membantu,LABEL_0
+bagus dan menolong,5,2025-12-10 03:00:37,bagus dan menolong,LABEL_0
+"saya kasih bintang 2 dulu, karna aplikasi nya tidak bisa menerima pesan, jdi susah untuk menyelesai kan pembayaran autodebit.",2,2025-12-10 02:58:32,saya kasih bintang  dulu karna aplikasi nya tidak bisa menerima pesan jdi susah untuk menyelesai kan pembayaran autodebit,LABEL_2
+ok bisa membantu,4,2025-12-10 02:56:38,ok bisa membantu,LABEL_0
+bagus,5,2025-12-10 02:51:04,bagus,LABEL_0
+membantu pensiunan,5,2025-12-10 02:48:53,membantu pensiunan,LABEL_0
+sangat berguna,5,2025-12-10 02:47:48,sangat berguna,LABEL_0
+bagus aplikasinya,4,2025-12-10 02:44:08,bagus aplikasinya,LABEL_0
+"saya mau bertanya,gunanya ada pendaftaran online itu apa ya, saya sampai klinik udh nunggu hampir sejam tetapi yg di panggil itu nomer antrian yg di bawah saya misalnya saya no urut A10 tapi yg di panggil duluuan A11 A12 saya di lewatin pas saya tnya ke pendaftaran katanya mereka datang duluan mangkannya mereka di dahulukan,maksudnya gmna ya saya daftar online itu biar mempermudah dan mempercepat tapi knpa yg datang duluan yg di dahulukan ,untuk apa ada pendaftaran online melalui APK kalo gtu",1,2025-12-10 02:42:55,saya mau bertanyagunanya ada pendaftaran online itu apa ya saya sampai klinik udh nunggu hampir sejam tetapi yg di panggil itu nomer antrian yg di bawah saya misalnya saya no urut a tapi yg di panggil duluuan a a saya di lewatin pas saya tnya ke pendaftaran katanya mereka datang duluan mangkannya mereka di dahulukanmaksudnya gmna ya saya daftar online itu biar mempermudah dan mempercepat tapi knpa yg datang duluan yg di dahulukan untuk apa ada pendaftaran online melalui apk kalo gtu,LABEL_2
+"Setiap mau ambil antrean secara online selalu saja gagal dengan keterangan ""Poli tidak ditemukan"". Kasian pasien yang rumahnya jauh dari rumah sakit,gak membantu sama sekali..",1,2025-12-10 02:36:31,setiap mau ambil antrean secara online selalu saja gagal dengan keterangan poli tidak ditemukan kasian pasien yang rumahnya jauh dari rumah sakitgak membantu sama sekali,LABEL_2
+tolong benerin mau riset pasword aj otp gak di kirim kirim,1,2025-12-10 02:29:55,tolong benerin mau riset pasword aj otp gak di kirim kirim,LABEL_1
+bagus,5,2025-12-10 02:29:10,bagus,LABEL_0
+"aplikasi jelek, udah di bayar tapi status di aplikasi ngga ilang",1,2025-12-10 02:25:56,aplikasi jelek udah di bayar tapi status di aplikasi ngga ilang,LABEL_2
+sangat membantu,5,2025-12-10 02:18:51,sangat membantu,LABEL_0
+"download apk lain bisa, download mobile jkn gabisa aneh bgt, padahal perlu bgt urgent",3,2025-12-10 02:13:28,download apk lain bisa download mobile jkn gabisa aneh bgt padahal perlu bgt urgent,LABEL_2
+sangat mudah di akses,5,2025-12-10 02:05:52,sangat mudah di akses,LABEL_0
+"aplikasi gk berguna, login gk bisa apa gunanya aplikasi ini sdh lama skali mw mw tp tdk bisa krn tdk muncul captha, bila tdk berfungsi knp pula ada apalikasi ini, pdhl aq mw ngecek tunggakan iuran bpjs",1,2025-12-10 02:01:56,aplikasi gk berguna login gk bisa apa gunanya aplikasi ini sdh lama skali mw mw tp tdk bisa krn tdk muncul captha bila tdk berfungsi knp pula ada apalikasi ini pdhl aq mw ngecek tunggakan iuran bpjs,LABEL_2
+"dg adanya aplikasi ini sangat membantu peserta BPJS, aplikasi cukup lengkap dan lancar penggunaanya",5,2025-12-10 02:01:07,dg adanya aplikasi ini sangat membantu peserta bpjs aplikasi cukup lengkap dan lancar penggunaanya,LABEL_0
+mempermudah ingat harus pakai internet yang kencang,5,2025-12-10 01:57:35,mempermudah ingat harus pakai internet yang kencang,LABEL_0
+sangat memuaskan kan,5,2025-12-10 01:55:07,sangat memuaskan kan,LABEL_0
+sangat membantu untuk pengguna mobile jkn,5,2025-12-10 01:51:59,sangat membantu untuk pengguna mobile jkn,LABEL_0
+semoga bisa memberikan pelayanan yg terbaik,5,2025-12-10 01:49:59,semoga bisa memberikan pelayanan yg terbaik,LABEL_0
+goodd,5,2025-12-10 01:47:39,goodd,LABEL_0
+memuaskan 👍👍,5,2025-12-10 01:38:21,memuaskan 👍👍,LABEL_0
+great,5,2025-12-10 01:29:49,great,LABEL_0
+baiksekali,5,2025-12-10 01:28:02,baiksekali,LABEL_0
+klw IT ga becus kerja pecat saja jng susahin orang aplikasi error tiap hari,1,2025-12-10 01:26:02,klw it ga becus kerja pecat saja jng susahin orang aplikasi error tiap hari,LABEL_2
+mudah dan cepat diproses,5,2025-12-10 01:01:50,mudah dan cepat diproses,LABEL_0
+"aplikasi yg sudah terstruktur, semua sistem nya berfungsi dengan baik",5,2025-12-10 00:55:53,aplikasi yg sudah terstruktur semua sistem nya berfungsi dengan baik,LABEL_0
+Tidak bisa ambil antrian perlu mengganti nomer Hp tapi untuk verifikasi tidak bisa.,1,2025-12-10 00:55:35,tidak bisa ambil antrian perlu mengganti nomer hp tapi untuk verifikasi tidak bisa,LABEL_1
+"BPJS sangat membantu dalam pembiayaan terutama masyarakat ekonomi menengah kebawah. Jika dapat di tingkat paskes (awal) jika melakukan berobat dengan keluhan sama yang di ulang beberapa kali (seperti saya dari tahun 2023 hingga saat ini keluhan flu berat: hidung tersumbat, bersin-bersin) sebaiknya direkomendasikan ke tingkat spesialis THT bukan ditahan. ini yang membuat kita kurang nyaman karena di tahan.",5,2025-12-10 00:53:54,bpjs sangat membantu dalam pembiayaan terutama masyarakat ekonomi menengah kebawah jika dapat di tingkat paskes awal jika melakukan berobat dengan keluhan sama yang di ulang beberapa kali seperti saya dari tahun  hingga saat ini keluhan flu berat hidung tersumbat bersinbersin sebaiknya direkomendasikan ke tingkat spesialis tht bukan ditahan ini yang membuat kita kurang nyaman karena di tahan,LABEL_2
+mantap jkn,5,2025-12-10 00:51:25,mantap jkn,LABEL_0
+"Aplikasi gila,udah coba daptar berkali- kali eror terus. gimana sih ini?!",1,2025-12-10 00:46:56,aplikasi gilaudah coba daptar berkali kali eror terus gimana sih ini,LABEL_2
+sangat membantu alhamdulilah,5,2025-12-10 00:43:31,sangat membantu alhamdulilah,LABEL_0
+oke mantap,5,2025-12-10 00:42:23,oke mantap,LABEL_0
+mantap,5,2025-12-10 00:31:05,mantap,LABEL_0
+"parah bos,tolong di perbaiki ini akun tidak bisa login jangan minta maaf terus",1,2025-12-10 00:30:55,parah bostolong di perbaiki ini akun tidak bisa login jangan minta maaf terus,LABEL_2
+good,5,2025-12-10 00:21:51,good,LABEL_0
+"Kenapa harus update terus ya,kemudian sering eror",5,2025-12-09 23:59:52,kenapa harus update terus yakemudian sering eror,LABEL_2
+terimakasih bagus buat ngubah tanpa harus ke kantor nya langsung,5,2025-12-09 22:47:58,terimakasih bagus buat ngubah tanpa harus ke kantor nya langsung,LABEL_0
+sangat bgus dan cepat,5,2025-12-09 22:44:20,sangat bgus dan cepat,LABEL_0
+terus berbuat yang terbaik,5,2025-12-09 22:24:07,terus berbuat yang terbaik,LABEL_0
+ada peningkatan,5,2025-12-09 21:44:23,ada peningkatan,LABEL_0
+ok la tapi sering susah kalo mau antri online,3,2025-12-09 21:42:55,ok la tapi sering susah kalo mau antri online,LABEL_2
+"aplikasinya tidak bisa discreenshoot, lalu mau ambil nomor antrian dipoli selalu penuh. Parah. kenapa tidak seperti dulu saja, antrian langsung dipoli tanpa dibatasi pelayananya.",1,2025-12-09 21:37:11,aplikasinya tidak bisa discreenshoot lalu mau ambil nomor antrian dipoli selalu penuh parah kenapa tidak seperti dulu saja antrian langsung dipoli tanpa dibatasi pelayananya,LABEL_2
+iklan terooos,1,2025-12-09 20:23:06,iklan terooos,LABEL_0
+"ngga bisa login. Sudah kirim pengaduan tapi jawaban sama sekali ngga guna. Suruh reset password, tapi apk nya ngga bisa ngiri OTP sudah berkali kali dicoba .pulsa pun ada. ngga ada solusi pdhl sudah berbulan bulan",1,2025-12-09 19:22:07,ngga bisa login sudah kirim pengaduan tapi jawaban sama sekali ngga guna suruh reset password tapi apk nya ngga bisa ngiri otp sudah berkali kali dicoba pulsa pun ada ngga ada solusi pdhl sudah berbulan bulan,LABEL_2
+"percuma pake antrian online, sampe klinik di tolak karna kuota BPJS habis!!! satu lagi kebingungan saya kenapa ada menu marketplace di dalam aplikasi ini yang mengarahkan ke marketplace nya ketika di klik???",1,2025-12-09 18:08:59,percuma pake antrian online sampe klinik di tolak karna kuota bpjs habis satu lagi kebingungan saya kenapa ada menu marketplace di dalam aplikasi ini yang mengarahkan ke marketplace nya ketika di klik,LABEL_2
+sangat bagus,5,2025-12-09 17:25:58,sangat bagus,LABEL_0
+setiap kali buka harus login dulu pake nomer KTP.. ada baiknya masuk sekali saja,1,2025-12-09 15:56:58,setiap kali buka harus login dulu pake nomer ktp ada baiknya masuk sekali saja,LABEL_1
+sangat gampang dh aplikasikan..t erimakasih,5,2025-12-09 15:14:15,sangat gampang dh aplikasikant erimakasih,LABEL_1
+cepat dan mudah di gunakan,5,2025-12-09 15:10:20,cepat dan mudah di gunakan,LABEL_0
+muantaaaab,5,2025-12-09 15:09:07,muantaaaab,LABEL_2
+"sangat mudah dan aman,,juga sesuai harapan",5,2025-12-09 15:04:57,sangat mudah dan amanjuga sesuai harapan,LABEL_0
+sangat membantu,5,2025-12-09 14:50:00,sangat membantu,LABEL_0
+"Bintang berbicara karena ini program dari pemerintah daerah dan pusat, untuk indepidu, harapan semua tampa kendala.",5,2025-12-09 14:32:24,bintang berbicara karena ini program dari pemerintah daerah dan pusat untuk indepidu harapan semua tampa kendala,LABEL_0
+membantu sekali,5,2025-12-09 14:32:11,membantu sekali,LABEL_0
+top,5,2025-12-09 14:21:38,top,LABEL_0
+"apalah apk buruk, biometrik ngga selesai²",1,2025-12-09 14:19:35,apalah apk buruk biometrik ngga selesai²,LABEL_2
+"log in ga bisa tot , perbaikin apk nya napa , atau sengaja biar tdk bisa akses masuk ke apk nya , gatelll",1,2025-12-09 14:17:33,log in ga bisa tot  perbaikin apk nya napa  atau sengaja biar tdk bisa akses masuk ke apk nya  gatelll,LABEL_2
+"makin kesini makin menyusahkan,, GK bisa login, bilangnya nik salah terus,",1,2025-12-09 13:55:40,makin kesini makin menyusahkan gk bisa login bilangnya nik salah terus,LABEL_2
+"Aplikasi jelek. bikin yang bener! mau login aja repot. nyusahin, gabisa diklik masuk. dari pada nyuruh bikin laporan ke email atau datang langsung mending benerin ni aplikasi. udh banyak keluhan tapi ga dibener benerin. jadi pegawai digaji rakyat, kerja yang bener!",1,2025-12-09 13:50:25,aplikasi jelek bikin yang bener mau login aja repot nyusahin gabisa diklik masuk dari pada nyuruh bikin laporan ke email atau datang langsung mending benerin ni aplikasi udh banyak keluhan tapi ga dibener benerin jadi pegawai digaji rakyat kerja yang bener,LABEL_2
+"dari update yang terbaru sekarang ga bisa Screenshot padahal mau di fotocopy tapi ga bisa kenapa si ini mobile jkn? di benerin dong, mau foto copy nih",1,2025-12-09 13:43:21,dari update yang terbaru sekarang ga bisa screenshot padahal mau di fotocopy tapi ga bisa kenapa si ini mobile jkn di benerin dong mau foto copy nih,LABEL_2
+"padahal udah punya akun sudah memasukan NIK sama password dengan benar.. kenapa pas mau login salah terus, susah amat aplikasinya di pake login",2,2025-12-09 13:37:37,padahal udah punya akun sudah memasukan nik sama password dengan benar kenapa pas mau login salah terus susah amat aplikasinya di pake login,LABEL_2
+"gagal muluk aplikasi apaan sich GK jelas menyusahkan aja,",1,2025-12-09 13:13:07,gagal muluk aplikasi apaan sich gk jelas menyusahkan aja,LABEL_2
+Terimakasih bpjs.,5,2025-12-09 13:11:46,terimakasih bpjs,LABEL_0
+Alhamdulillah,5,2025-12-09 12:37:11,alhamdulillah,LABEL_0
+pelayanan cepat,5,2025-12-09 12:20:31,pelayanan cepat,LABEL_0
+masih oke,5,2025-12-09 12:14:06,masih oke,LABEL_0
+"gak ngerti buat mendaftar log in, kok harus ada kode referral segala? Bukannya memudahkan tapi memperSulit!",1,2025-12-09 12:01:02,gak ngerti buat mendaftar log in kok harus ada kode referral segala bukannya memudahkan tapi mempersulit,LABEL_2
+lumayan bagus,4,2025-12-09 11:51:48,lumayan bagus,LABEL_0
+bagus aplikasinya,4,2025-12-09 11:51:20,bagus aplikasinya,LABEL_0
+bagus,5,2025-12-09 11:51:08,bagus,LABEL_0
+jadi mudah,5,2025-12-09 11:33:22,jadi mudah,LABEL_0
+sangat bermanfaat,5,2025-12-09 11:04:16,sangat bermanfaat,LABEL_0
+pelayanan bagus,5,2025-12-09 11:02:46,pelayanan bagus,LABEL_0
+terbaik bos,5,2025-12-09 10:59:36,terbaik bos,LABEL_0
+customer service setiap ada masalah sistem di aplikasi malah suruh tanyakan ke rumah sakit apa fungsi nya customer servis tidak menyelesaikan masalah kalau begitu,1,2025-12-09 10:44:29,customer service setiap ada masalah sistem di aplikasi malah suruh tanyakan ke rumah sakit apa fungsi nya customer servis tidak menyelesaikan masalah kalau begitu,LABEL_2
+aplikasi yang sangat bagus dan sangat membantu,5,2025-12-09 10:37:40,aplikasi yang sangat bagus dan sangat membantu,LABEL_0
+apknya eror untuk login gak bisa tolong di benerin dong,1,2025-12-09 10:26:39,apknya eror untuk login gak bisa tolong di benerin dong,LABEL_2
+aplikasi tolool,1,2025-12-09 10:20:20,aplikasi tolool,LABEL_1
+suka error,1,2025-12-09 10:18:32,suka error,LABEL_2
+sudah paling Update malah eror terussssss,1,2025-12-09 10:18:16,sudah paling update malah eror terussssss,LABEL_2
+"ga bisa login, captcha nya muter doang",2,2025-12-09 10:18:07,ga bisa login captcha nya muter doang,LABEL_2
+"kita daftar berobat harus lewat online,tapi kenyataan dari aplikasi ini apa?suka keluar sendiri, waktu mau login lagi, tidak bisa bisa, selau loading padahan apk lain tidak loading, mau berobat saja susah, padahal kita aja bayar meskipun itu perbulan!!!,memang harus mempersulit kita sebagai rakyat kecil yang ingin berobat? apa fungsinya aplikasi yg selalu loading ga jelas !!",1,2025-12-09 10:16:08,kita daftar berobat harus lewat onlinetapi kenyataan dari aplikasi ini apasuka keluar sendiri waktu mau login lagi tidak bisa bisa selau loading padahan apk lain tidak loading mau berobat saja susah padahal kita aja bayar meskipun itu perbulanmemang harus mempersulit kita sebagai rakyat kecil yang ingin berobat apa fungsinya aplikasi yg selalu loading ga jelas,LABEL_2
+"tolong di perbaiki, kode captha muter doang gak muncul²... jadi gak bisa login paketan padahal aman jaringan kenceng, sampe hp di restar berkali2 sama aja masih gak bisa",1,2025-12-09 10:16:01,tolong di perbaiki kode captha muter doang gak muncul² jadi gak bisa login paketan padahal aman jaringan kenceng sampe hp di restar berkali sama aja masih gak bisa,LABEL_2
+Bikin ribed aja aplikasi pas lagi dibutuhin sering error padahal orang sakit harus buru2 ditangani.,1,2025-12-09 10:15:17,bikin ribed aja aplikasi pas lagi dibutuhin sering error padahal orang sakit harus buru ditangani,LABEL_2
+"setiap bulan update aplikasi dan slalu login, tapi setiap log-in selalu susah yg caphca tidak tampil,yg aplikasi eror bukan membatu malah buat ribet",1,2025-12-09 10:14:09,setiap bulan update aplikasi dan slalu login tapi setiap login selalu susah yg caphca tidak tampilyg aplikasi eror bukan membatu malah buat ribet,LABEL_2
+"dikasih chapta, eh malah muter2. gimana loginnya klo kaya gini",1,2025-12-09 10:13:55,dikasih chapta eh malah muter gimana loginnya klo kaya gini,LABEL_2
+terlog-out sendiri dan tdk bisa login. dulu bagus skrg kok turun performa. saya tidak yakin aplikasi ini mendapat rating 4.5 bintang saya baca hampir rata² memberi nilai 1 bintang,1,2025-12-09 10:13:53,terlogout sendiri dan tdk bisa login dulu bagus skrg kok turun performa saya tidak yakin aplikasi ini mendapat rating  bintang saya baca hampir rata² memberi nilai  bintang,LABEL_2
+"mau login aja susah banget, captcha nya muter2 mulu",1,2025-12-09 10:13:40,mau login aja susah banget captcha nya muter mulu,LABEL_2
+"aplikasi bodoh, orang dimana mana bikin software untuk mempermudah pengguna, ini justru makin mempersulit pengguna, orang mau berobat udah setengah mati pun harus ngingat ngingat password dulu, lawak",1,2025-12-09 10:13:21,aplikasi bodoh orang dimana mana bikin software untuk mempermudah pengguna ini justru makin mempersulit pengguna orang mau berobat udah setengah mati pun harus ngingat ngingat password dulu lawak,LABEL_2
+sudah update malah gabisa log in,1,2025-12-09 10:12:31,sudah update malah gabisa log in,LABEL_2
+tidak bisa login capcha tidak keluar,1,2025-12-09 10:11:04,tidak bisa login capcha tidak keluar,LABEL_1
+apk ga bisa di pake ga update nyusahin banget sumpah orang mau berobat malah ga bisa login su,1,2025-12-09 10:10:34,apk ga bisa di pake ga update nyusahin banget sumpah orang mau berobat malah ga bisa login su,LABEL_2
+kenapa mau login captcha muter2 terus? tolong dong d perbaiki,2,2025-12-09 10:09:59,kenapa mau login captcha muter terus tolong dong d perbaiki,LABEL_2
+tidak bisa log in stak terus di menu log in,2,2025-12-09 10:08:16,tidak bisa log in stak terus di menu log in,LABEL_1
+"semenjak di perbarui kenapa JD susah eror Mulu, mau berobat jkn nya eror terus ,",2,2025-12-09 10:05:55,semenjak di perbarui kenapa jd susah eror mulu mau berobat jkn nya eror terus,LABEL_2
+aplikasi yg MEMPERSULIT orang. susah sekali mau log in. berbenah coba. !,1,2025-12-09 10:01:20,aplikasi yg mempersulit orang susah sekali mau log in berbenah coba,LABEL_2
+gabisa d gunakan selalu eror,1,2025-12-09 09:58:11,gabisa d gunakan selalu eror,LABEL_2
+Sulit login,1,2025-12-09 09:57:32,sulit login,LABEL_2
+"orang mau berobat captcha nya muter2 doank, gk ad yg monitoring aplikasinya apa?",2,2025-12-09 09:57:30,orang mau berobat captcha nya muter doank gk ad yg monitoring aplikasinya apa,LABEL_2
+sangat membantu,4,2025-12-09 09:55:24,sangat membantu,LABEL_0
+"sering logout sendiri, di samsung S23 ultra. Setiap ada update selalu logout. Ini captcha nya error jadi tidak bisa login. Tolong ya kak",2,2025-12-09 09:53:40,sering logout sendiri di samsung s ultra setiap ada update selalu logout ini captcha nya error jadi tidak bisa login tolong ya kak,LABEL_1
+servernya lemot,2,2025-12-09 09:53:30,servernya lemot,LABEL_2
+"Pasword sydwh benar dan captcha sudah bener masih saja gak bisa,,,apa sih maunya aplikasi ini",1,2025-12-09 09:51:50,pasword sydwh benar dan captcha sudah bener masih saja gak bisaapa sih maunya aplikasi ini,LABEL_2
+ini yang bikin aplikasi niat ga ?? errorr terusss sistem nya !!!! coba lagi coba lagi,1,2025-12-09 09:47:02,ini yang bikin aplikasi niat ga  errorr terusss sistem nya  coba lagi coba lagi,LABEL_2
+aplikasi aneh gangguan mulu duit nya di korup mulu sih engga bner kalah ama server roblox,1,2025-12-09 09:44:05,aplikasi aneh gangguan mulu duit nya di korup mulu sih engga bner kalah ama server roblox,LABEL_2
+login susah banget,3,2025-12-09 09:40:01,login susah banget,LABEL_2
+"gabisa login, padahal kuota aman jaringan pun stabil",1,2025-12-09 09:39:54,gabisa login padahal kuota aman jaringan pun stabil,LABEL_1
+"suka tiba-tiba keluar sendiri pas mau masuk lagi gak bisa,, loading terus,, payah",1,2025-12-09 09:39:33,suka tibatiba keluar sendiri pas mau masuk lagi gak bisa loading terus payah,LABEL_2
+Tidak bisa login walau sinyal dan identitas telah dimasukkan dengan benar.,1,2025-12-09 09:38:28,tidak bisa login walau sinyal dan identitas telah dimasukkan dengan benar,LABEL_1
+keluar mulu dan susah masuknya,1,2025-12-09 09:36:26,keluar mulu dan susah masuknya,LABEL_2
+susah buat akun bnyk bug,3,2025-12-09 09:35:36,susah buat akun bnyk bug,LABEL_2
+kenapa ini jaringan ?? tidak bisa masuk,1,2025-12-09 09:35:08,kenapa ini jaringan  tidak bisa masuk,LABEL_2
+kenapa ya sekarang eror Mulu tolong lah perbaiki kekurang nya,1,2025-12-09 09:34:25,kenapa ya sekarang eror mulu tolong lah perbaiki kekurang nya,LABEL_2
+error mulu 🙄,1,2025-12-09 09:33:50,error mulu 🙄,LABEL_2
+Aplikasi nyusahin..... ERORRRRRRRRRR NGGA BISA MASUK,1,2025-12-09 09:31:52,aplikasi nyusahin erorrrrrrrrrr ngga bisa masuk,LABEL_2
+"ini aplikasi bobrok banget dah gilaa mau login sama buat akun susah nya minta ampun, giliran makan uang rakyat aja cepet",2,2025-12-09 09:31:31,ini aplikasi bobrok banget dah gilaa mau login sama buat akun susah nya minta ampun giliran makan uang rakyat aja cepet,LABEL_2
+ok,5,2025-12-09 09:30:38,ok,LABEL_0
+ribet jncok kita mau berobat mlh d persulit tinggal dtng daftar mlh d sruh pke apk login ngk mau msuk msuk INTINYA RIBETTT,1,2025-12-09 09:29:33,ribet jncok kita mau berobat mlh d persulit tinggal dtng daftar mlh d sruh pke apk login ngk mau msuk msuk intinya ribettt,LABEL_2
+"Mau dipake pendaftaran, login ajh susah, minta tolong diperbaiki Trimakasih",2,2025-12-09 09:29:11,mau dipake pendaftaran login ajh susah minta tolong diperbaiki trimakasih,LABEL_2
+ada beberapa kendala tapi overall bagus,4,2025-12-09 09:20:23,ada beberapa kendala tapi overall bagus,LABEL_0
+dapat membantu orang orang,5,2025-12-09 09:10:33,dapat membantu orang orang,LABEL_0
+error. ga bisa ambil antrian,1,2025-12-09 08:50:24,error ga bisa ambil antrian,LABEL_2
+cepat responnya dan mudah menggunakan nya,5,2025-12-09 08:45:56,cepat responnya dan mudah menggunakan nya,LABEL_0
+Sangat Membantu terima kasij mobile jkn,5,2025-12-09 08:34:09,sangat membantu terima kasij mobile jkn,LABEL_0
+bikin ribet doang 😄,1,2025-12-09 08:32:50,bikin ribet doang 😄,LABEL_2
+habis periksa poli umum dan akan daftar untuk poli gigi hari selanjutnya tidak dapat masuk karena riwayat pendaftaran masih dan tidak ada menu hapus riwayat daftar tak kasih bintang 2 dulu,2,2025-12-09 08:30:32,habis periksa poli umum dan akan daftar untuk poli gigi hari selanjutnya tidak dapat masuk karena riwayat pendaftaran masih dan tidak ada menu hapus riwayat daftar tak kasih bintang  dulu,LABEL_1
+mantap aplikasinya sangat membantu,5,2025-12-09 08:22:08,mantap aplikasinya sangat membantu,LABEL_0
+mantap sangat membantu,5,2025-12-09 08:21:21,mantap sangat membantu,LABEL_0
+sangat membantu,5,2025-12-09 08:16:59,sangat membantu,LABEL_0
+Alhamdulillah sekarang sudah bisa cuma ya masih bingung kok bisa nomor dibilang sudah dipakai padahal belum pernah buat sebelumnya,4,2025-12-09 07:57:43,alhamdulillah sekarang sudah bisa cuma ya masih bingung kok bisa nomor dibilang sudah dipakai padahal belum pernah buat sebelumnya,LABEL_2
+"ini aplikasi jkn knp. erory ketutup sendiri hrs masuk dftr ulang.. kita nih ngecek aplikasi utk byr.. aneh bngt.. bikin ribet dftr ulang mskin no nik dll.. jgn di bikin ribet lah.. kita byr tepat wkt utk. di pake aj kagak. inibpjs.. cuma untuk cek mau BAYAR.. di buat ribet dh berkali"" hrs login awal.. hbskan wkt aj.. nungak juga kagak pernah.. tepat waktu.. zonk bngt.. mau byr aj di susah"" apa lagi kalo gk bayar...",3,2025-12-09 07:46:33,ini aplikasi jkn knp erory ketutup sendiri hrs masuk dftr ulang kita nih ngecek aplikasi utk byr aneh bngt bikin ribet dftr ulang mskin no nik dll jgn di bikin ribet lah kita byr tepat wkt utk di pake aj kagak inibpjs cuma untuk cek mau bayar di buat ribet dh berkali hrs login awal hbskan wkt aj nungak juga kagak pernah tepat waktu zonk bngt mau byr aj di susah apa lagi kalo gk bayar,LABEL_2
+mudah menggunakannya,5,2025-12-09 07:41:30,mudah menggunakannya,LABEL_0
+"update mulu, giliran login tidak bisa masuk,mau ganti kata sandi kode OTP tidak dikirim kan.",3,2025-12-09 07:33:22,update mulu giliran login tidak bisa masukmau ganti kata sandi kode otp tidak dikirim kan,LABEL_2
+sangat membantu,5,2025-12-09 07:33:10,sangat membantu,LABEL_0
+ok,4,2025-12-09 07:28:17,ok,LABEL_0
+aplikasinya bagus sekali,5,2025-12-09 07:18:56,aplikasinya bagus sekali,LABEL_0
+aplikasi tidak berguna dan menyusahkan,1,2025-12-09 07:09:18,aplikasi tidak berguna dan menyusahkan,LABEL_2
+ok bet,5,2025-12-09 07:08:59,ok bet,LABEL_0
+"susah amat mau verifikasi minta kode wa kita ke wa kembali ke jkn dah ilang, begitu terus, minta kode mail, kita tinggal buka mail kembali ke halaman jkn dah ilang lagi..",3,2025-12-09 06:53:01,susah amat mau verifikasi minta kode wa kita ke wa kembali ke jkn dah ilang begitu terus minta kode mail kita tinggal buka mail kembali ke halaman jkn dah ilang lagi,LABEL_2
+sangat membantu,5,2025-12-09 06:47:07,sangat membantu,LABEL_0
+sangat membantu,5,2025-12-09 06:38:53,sangat membantu,LABEL_0
+memudahkan kita untuk meningkatkan kesehatan,5,2025-12-09 06:32:43,memudahkan kita untuk meningkatkan kesehatan,LABEL_0
+mantap,5,2025-12-09 06:10:20,mantap,LABEL_0
+kode di SMS gak masuk2 pulsa udah abis hadeh,1,2025-12-09 05:55:31,kode di sms gak masuk pulsa udah abis hadeh,LABEL_2
+sangat membantu,5,2025-12-09 05:48:13,sangat membantu,LABEL_0
+"verifikasi wajah gabisa, daftar ambil antrian jg gabisa",1,2025-12-09 05:46:37,verifikasi wajah gabisa daftar ambil antrian jg gabisa,LABEL_2
+"satu dari ribuan layanan pemerintah yang tidak ribet, tidak berbelit-belit dan sangat membantu masyarakat benar benar berdedikasi untuk melayani masyarakat dan integritas tinggi defenisi sebenarnya dari integritas dan melayani dengan sepenuh hati adalah cerminan dari JKN mobile",5,2025-12-09 05:45:50,satu dari ribuan layanan pemerintah yang tidak ribet tidak berbelitbelit dan sangat membantu masyarakat benar benar berdedikasi untuk melayani masyarakat dan integritas tinggi defenisi sebenarnya dari integritas dan melayani dengan sepenuh hati adalah cerminan dari jkn mobile,LABEL_0
+respon cepat,5,2025-12-09 05:42:42,respon cepat,LABEL_0
+"mempermudah urusan utk mengubah data peserta jg faskes pertama,mantap moga dpt dipermudah segala urusannya,terimakasih",5,2025-12-09 05:39:15,mempermudah urusan utk mengubah data peserta jg faskes pertamamantap moga dpt dipermudah segala urusannyaterimakasih,LABEL_1
+banyak eror nya ini aplikasi,1,2025-12-09 05:32:00,banyak eror nya ini aplikasi,LABEL_2
+sudah bagus mantap,5,2025-12-09 05:21:46,sudah bagus mantap,LABEL_0
+Sangat membantu dan mempermudah,5,2025-12-09 05:14:08,sangat membantu dan mempermudah,LABEL_0
+sangat mebantu,5,2025-12-09 05:04:27,sangat mebantu,LABEL_0
+sudah 2 minggu ngebug terus..padahal saya butuh buat ambil antrian..tolong diperbaiki..,1,2025-12-09 04:49:41,sudah  minggu ngebug teruspadahal saya butuh buat ambil antriantolong diperbaiki,LABEL_1
+tolong sediakan fitur ss,4,2025-12-09 04:49:37,tolong sediakan fitur ss,LABEL_1
+"susah login, katanya no antian rs biar cepat lewat aplikasi ini nyatanya login aja susah banget",1,2025-12-09 04:48:03,susah login katanya no antian rs biar cepat lewat aplikasi ini nyatanya login aja susah banget,LABEL_2
+mantap,5,2025-12-09 04:47:51,mantap,LABEL_0
+"Saya login apk tp logout sendiri dan ada keterangan udh login di perangkat lain. Saat itu saya langsung amanin akun dan ganti passowrd. Tp pas login kenapa ga jadi ya? NIK, password dan kode captcha udh bener tp salah mulu ga bisa masuk. Tolong dibantu buat menyelesaikan masalah ini.",3,2025-12-09 04:39:56,saya login apk tp logout sendiri dan ada keterangan udh login di perangkat lain saat itu saya langsung amanin akun dan ganti passowrd tp pas login kenapa ga jadi ya nik password dan kode captcha udh bener tp salah mulu ga bisa masuk tolong dibantu buat menyelesaikan masalah ini,LABEL_2
+terima kasih,5,2025-12-09 04:32:47,terima kasih,LABEL_0
+luar biasa hebat,5,2025-12-09 04:24:14,luar biasa hebat,LABEL_0
+Udah berulang kali minta kode verifikasi otp kagak pernah muncul,1,2025-12-09 04:21:31,udah berulang kali minta kode verifikasi otp kagak pernah muncul,LABEL_2
+apakah aplikasi ini bisa di akses 2 KK kalau bisa caranya gimna?,5,2025-12-09 04:17:14,apakah aplikasi ini bisa di akses  kk kalau bisa caranya gimna,LABEL_1
+sangat membantu... ga usah ribet datang ke kantor BPJS dan lama ngantri... tinggal klik klik beres.... terus banyak fitur dan kelebihan nya LG .. ga percaya download donk...,5,2025-12-09 04:14:34,sangat membantu ga usah ribet datang ke kantor bpjs dan lama ngantri tinggal klik klik beres terus banyak fitur dan kelebihan nya lg  ga percaya download donk,LABEL_0
+memudahkan peserta..dlm urusan kesehatan.ke RSUD,5,2025-12-09 04:01:19,memudahkan pesertadlm urusan kesehatanke rsud,LABEL_1
+"Saya mau nambah peserta untuk anak saya, tapi nggak bisa dengan alasan bayi baru lahir, padahal jelas-jelas data yang saya isi tahun lahir anak saya 2023, Ini terjadi berulang, dari 2023, 2024, dan bahkan sekarang 2025 saya coba lagi, ternyata masih nggak bisa.. tolong dong,",4,2025-12-09 03:56:15,saya mau nambah peserta untuk anak saya tapi nggak bisa dengan alasan bayi baru lahir padahal jelasjelas data yang saya isi tahun lahir anak saya  ini terjadi berulang dari   dan bahkan sekarang  saya coba lagi ternyata masih nggak bisa tolong dong,LABEL_2
+kurang nya no antrian suka ngilang sndri jdi susah liat nya lagi,4,2025-12-09 03:47:22,kurang nya no antrian suka ngilang sndri jdi susah liat nya lagi,LABEL_2
+aplikasinya sangat memudahkan saya dan keluarga,5,2025-12-09 03:43:52,aplikasinya sangat memudahkan saya dan keluarga,LABEL_0
+membantu memudahkan pendaftaran,4,2025-12-09 03:28:54,membantu memudahkan pendaftaran,LABEL_0
+"sering keluar sendiri dari aplikasi jkn,kemudian login lagi susah masuk",1,2025-12-09 03:25:21,sering keluar sendiri dari aplikasi jknkemudian login lagi susah masuk,LABEL_2
+ok bgd,5,2025-12-09 03:21:20,ok bgd,LABEL_0
+mudah,5,2025-12-09 03:17:33,mudah,LABEL_0
+ini aplikasi gimana ya.. suka log out sendiri.. mau daftar antrian buat kontrol susah padahal rujukan sudah baru. kan capek harus log in terus. setelah coba log in gak bisa.. ngisi data sudah benar2. malah suruh mengulang2 terus.,2,2025-12-09 03:01:41,ini aplikasi gimana ya suka log out sendiri mau daftar antrian buat kontrol susah padahal rujukan sudah baru kan capek harus log in terus setelah coba log in gak bisa ngisi data sudah benar malah suruh mengulang terus,LABEL_2
+proses perubahan data cepat terima kasih,5,2025-12-09 02:57:30,proses perubahan data cepat terima kasih,LABEL_1
+Bagus banyak kemajuan dan sangat bermanfaat.,5,2025-12-09 02:40:07,bagus banyak kemajuan dan sangat bermanfaat,LABEL_0
+akun sering keluar sendiri,1,2025-12-09 02:35:39,akun sering keluar sendiri,LABEL_2
+mantap jaya,5,2025-12-09 02:30:30,mantap jaya,LABEL_0
+"nice pertahankan jgn berhenti ditengah jalan, kebiasaan pemerintah ganti pimpinan ganti aplikasi, kalo sudah bagus lanjutkan dan lebih dilengkapi dan di tingkatkan kecepatan servernya agar makin baik aplikasinya",5,2025-12-09 02:26:59,nice pertahankan jgn berhenti ditengah jalan kebiasaan pemerintah ganti pimpinan ganti aplikasi kalo sudah bagus lanjutkan dan lebih dilengkapi dan di tingkatkan kecepatan servernya agar makin baik aplikasinya,LABEL_0
+semoga kedepan nya makin lancar,5,2025-12-09 02:23:35,semoga kedepan nya makin lancar,LABEL_0
+abis di update... log-in ulang lagi.. di login GK bisa ... pakai lupa sandi ..no verifikasi gak di kirim.. coba hari berikutnya sama aja .. Ampe sekarang masih gak bisa.. pakai cara apalagi supaya bisa log- in,1,2025-12-09 02:17:26,abis di update login ulang lagi di login gk bisa  pakai lupa sandi no verifikasi gak di kirim coba hari berikutnya sama aja  ampe sekarang masih gak bisa pakai cara apalagi supaya bisa log in,LABEL_2
+"Alhamdulillah semakin mudah dan semakin terbantu berkat adanya mobile jkn periksa lebih gampang, banyak informasi nya juga terima kasih jkn 🙏👍👍👍👍👍👍🔥🔥🔥🔥",5,2025-12-09 02:11:37,alhamdulillah semakin mudah dan semakin terbantu berkat adanya mobile jkn periksa lebih gampang banyak informasi nya juga terima kasih jkn 🙏👍👍👍👍👍👍🔥🔥🔥🔥,LABEL_0
+"KENAPA TIBA-TIBA LOGOUT, APLIKASI RIBET, KEBANYAKAN CHAPTA!!!!!",1,2025-12-09 01:56:18,kenapa tibatiba logout aplikasi ribet kebanyakan chapta,LABEL_2
+sangat membantu,5,2025-12-09 01:54:51,sangat membantu,LABEL_0
+"seperti aplikasi pemerintah pada umumnya, TIDAK cepat, TIDAK lancar, sering TIDAK berhasil input data tidak bisa daftar online sudah 1 Minggu lebih, dengan keterangan kuota penuh, sudah dipastikan di klinik yg saya tuju, masih kosong pendaftaran atau kuota tersedia, anak saya sedang tambal gigi, padahal tambalan sementara harus di lepas tapi ternyata gak bisa daftar online dan kejadian ini tidak hanya di M JKN saya, keluarga lain juga mengalami hal sama, ayolah",1,2025-12-09 01:52:25,seperti aplikasi pemerintah pada umumnya tidak cepat tidak lancar sering tidak berhasil input data tidak bisa daftar online sudah  minggu lebih dengan keterangan kuota penuh sudah dipastikan di klinik yg saya tuju masih kosong pendaftaran atau kuota tersedia anak saya sedang tambal gigi padahal tambalan sementara harus di lepas tapi ternyata gak bisa daftar online dan kejadian ini tidak hanya di m jkn saya keluarga lain juga mengalami hal sama ayolah,LABEL_2
+"tidak bisa masuk, aplikasi parah",1,2025-12-09 01:47:00,tidak bisa masuk aplikasi parah,LABEL_2
+ok mantap,5,2025-12-09 01:44:25,ok mantap,LABEL_0
+mantap,5,2025-12-09 01:44:05,mantap,LABEL_0
+sangat membantu,5,2025-12-09 01:38:12,sangat membantu,LABEL_0
+sangat membantu saat menjalani perawatan,5,2025-12-09 01:29:38,sangat membantu saat menjalani perawatan,LABEL_0
+Kenapa ya susah banget ngirim kode otp doang. Trs ga ada kah pengaturan yang ngatur buat ganti nomer hp atau gmail. Tolonglah binding aplikasi ini sama gmail atau aplikasi lain tuh harus ada biar ga nyusahin jangan pas bikin akun doang 🤦‍♀️,1,2025-12-09 01:27:25,kenapa ya susah banget ngirim kode otp doang trs ga ada kah pengaturan yang ngatur buat ganti nomer hp atau gmail tolonglah binding aplikasi ini sama gmail atau aplikasi lain tuh harus ada biar ga nyusahin jangan pas bikin akun doang 🤦‍♀️,LABEL_2
+pelayanannya bagus,5,2025-12-09 01:24:51,pelayanannya bagus,LABEL_0
+mudah praktis aman untuk melakukan perubahan data secara online terimakasih,5,2025-12-09 01:23:56,mudah praktis aman untuk melakukan perubahan data secara online terimakasih,LABEL_0
+sangat memudahkan untuk ambil antrian,5,2025-12-09 01:16:33,sangat memudahkan untuk ambil antrian,LABEL_0
+tambah ke sini tambah ribet tiap mau buka aplikasi harus login ulang bahkan sering gagal,1,2025-12-09 01:03:22,tambah ke sini tambah ribet tiap mau buka aplikasi harus login ulang bahkan sering gagal,LABEL_2
+bagus,5,2025-12-09 00:43:44,bagus,LABEL_0
+"aneh sekali aplikasi mobile JKN ini, mau log in eh akun gak terdaftar, terus daftar pemberitahuannya akun sdh terdaftar, coba log in lagi malah tidak terdaftar..! bukannya dipermudah malah dipersulit!",1,2025-12-09 00:01:30,aneh sekali aplikasi mobile jkn ini mau log in eh akun gak terdaftar terus daftar pemberitahuannya akun sdh terdaftar coba log in lagi malah tidak terdaftar bukannya dipermudah malah dipersulit,LABEL_2
+heran suka banget log out sendiri mau log in lagi lupa salah mulu password nya. ga bisa log in! capek!,5,2025-12-08 23:38:08,heran suka banget log out sendiri mau log in lagi lupa salah mulu password nya ga bisa log in capek,LABEL_2
+simple,5,2025-12-08 23:17:20,simple,LABEL_0
+cukup unt.memudahkan urusan dlm kesehatan. meringankan dlm antrian pemeriksaan dll,4,2025-12-08 23:17:01,cukup untmemudahkan urusan dlm kesehatan meringankan dlm antrian pemeriksaan dll,LABEL_0
+"Punya saya kenapa waktu mau ambil antrian tulisannya invalid-F1, terima kasih",3,2025-12-08 22:52:58,punya saya kenapa waktu mau ambil antrian tulisannya invalidf terima kasih,LABEL_1
+okeh,5,2025-12-08 22:47:44,okeh,LABEL_0
+isi nik udah bener di bilang salah memasukan nik sudah 2 x...gimana ini teh mau log in,1,2025-12-08 22:46:00,isi nik udah bener di bilang salah memasukan nik sudah  xgimana ini teh mau log in,LABEL_2
+"Guamah gak paham sama mobile jkn ini.. Bener2 susah bgt mau daftar lagi dengan cara pilih lupa kata sandi, daftar pakai nomor hp malah gak masuk2 kode verifikasinya. Nyebelin ini bener2 mobile jkn",1,2025-12-08 22:04:01,guamah gak paham sama mobile jkn ini bener susah bgt mau daftar lagi dengan cara pilih lupa kata sandi daftar pakai nomor hp malah gak masuk kode verifikasinya nyebelin ini bener mobile jkn,LABEL_2
+aplikasi sering eror dan sulit masuk,1,2025-12-08 21:45:39,aplikasi sering eror dan sulit masuk,LABEL_2
+Mobil jkn lebih enak dan mudah.,5,2025-12-08 21:18:47,mobil jkn lebih enak dan mudah,LABEL_0
+"tolong sistem lupa password nya di perbaiki, nomor verifikasi menuju sms dan email tidak muncul sama sekali padahal jaringan lancar, dan waktu pengiriman ulang nya 300 detik terlalu lama",1,2025-12-08 20:59:18,tolong sistem lupa password nya di perbaiki nomor verifikasi menuju sms dan email tidak muncul sama sekali padahal jaringan lancar dan waktu pengiriman ulang nya  detik terlalu lama,LABEL_2
+ok,5,2025-12-08 20:04:20,ok,LABEL_0
+pengalaman adalah guru terbaik,5,2025-12-08 19:46:13,pengalaman adalah guru terbaik,LABEL_0
+susahnya ganti nomor hp sampai kontrol RS saja terlewat gara ² gak bisa masuk lupa password...,4,2025-12-08 19:04:37,susahnya ganti nomor hp sampai kontrol rs saja terlewat gara ² gak bisa masuk lupa password,LABEL_2
+Aplikasi yang sangat membantu dan mudah digunakan,5,2025-12-08 18:57:28,aplikasi yang sangat membantu dan mudah digunakan,LABEL_0
+parah kartu ada bulanan nggak pernah nunggak kok tiba 2 saya tidak terdaftar kacau2,1,2025-12-08 16:46:48,parah kartu ada bulanan nggak pernah nunggak kok tiba  saya tidak terdaftar kacau,LABEL_2
+"aplikasi lemot, aplikasi sering log out tapi ga bisa login lagi. kirim kode otp via sms ga ada sms masuk samsek, kirim kode otp via email tapi email tidak terdaftar padahal sudah pernah login pake email. di suruh pake aplikasi tapi aplikasinya busuk banget. ketika dibutuhkan malah aplikasi eror, kalau urgent gimana dong",1,2025-12-08 15:36:00,aplikasi lemot aplikasi sering log out tapi ga bisa login lagi kirim kode otp via sms ga ada sms masuk samsek kirim kode otp via email tapi email tidak terdaftar padahal sudah pernah login pake email di suruh pake aplikasi tapi aplikasinya busuk banget ketika dibutuhkan malah aplikasi eror kalau urgent gimana dong,LABEL_2
+mudah penggunaan nya,5,2025-12-08 15:30:37,mudah penggunaan nya,LABEL_0
+ok,5,2025-12-08 15:28:16,ok,LABEL_0
+sangat bobrok aplikasi jkn indonesia. bermasalah terus menerus. pelayanan sangat kecewa sekali. korupsi besar besaran aplikasinya saja bobrok apalagi pelayanan masyahrakat tidak di perbaiki. untuk apa ada aplikasi jkn kalo gak bisa di gunakan aplikasinya. bagai mana dengan pekerja yg sedang sakit yg membutuhkan bukti riwayat berobat untuk di berikan bukti ke perusahaan. jika tidak di lampirkan maka kami di potong gaji 1 hk. aplikasi bukan membantu malah menyusahkan saja.,1,2025-12-08 15:21:25,sangat bobrok aplikasi jkn indonesia bermasalah terus menerus pelayanan sangat kecewa sekali korupsi besar besaran aplikasinya saja bobrok apalagi pelayanan masyahrakat tidak di perbaiki untuk apa ada aplikasi jkn kalo gak bisa di gunakan aplikasinya bagai mana dengan pekerja yg sedang sakit yg membutuhkan bukti riwayat berobat untuk di berikan bukti ke perusahaan jika tidak di lampirkan maka kami di potong gaji  hk aplikasi bukan membantu malah menyusahkan saja,LABEL_2
+"saya mau bayar tunggakan, tapi ribet poll, udh pernah daftar hrs dftr lagi, trs mau masuk hrs langsung dihubungin ke autodebit, padahal kan saya mau benerin data dulu, byk yg blm disesuaikan. Mau chatt cs lewat mana ya?, jgn yg wa biasa krn itu bot/template semua, maunya sama org langsung yg solutif. proses autodebit juga ga selesai2, capek ngulangnya, mau pake nonbank jg katanya email tdk sesuai format, aneh!. suruh bikin pengaduan by jkn, orang LOGIN AJA BELUM! gimana caranya?, KOCAK",1,2025-12-08 15:09:09,saya mau bayar tunggakan tapi ribet poll udh pernah daftar hrs dftr lagi trs mau masuk hrs langsung dihubungin ke autodebit padahal kan saya mau benerin data dulu byk yg blm disesuaikan mau chatt cs lewat mana ya jgn yg wa biasa krn itu bottemplate semua maunya sama org langsung yg solutif proses autodebit juga ga selesai capek ngulangnya mau pake nonbank jg katanya email tdk sesuai format aneh suruh bikin pengaduan by jkn orang login aja belum gimana caranya kocak,LABEL_2
+mantap sangat membantu,5,2025-12-08 15:07:27,mantap sangat membantu,LABEL_0
+bagus mudah di pergunakan,5,2025-12-08 15:06:13,bagus mudah di pergunakan,LABEL_0
+saya lupa pasport dan email susah banget masuk nya mohon di permudah cari cara lain agar bisa masuk,1,2025-12-08 15:03:18,saya lupa pasport dan email susah banget masuk nya mohon di permudah cari cara lain agar bisa masuk,LABEL_2
+bagus,5,2025-12-08 15:01:27,bagus,LABEL_0
+cepat,5,2025-12-08 14:57:26,cepat,LABEL_0
+aplikasi yang wajib di instal karena sangat membantu,5,2025-12-08 14:43:44,aplikasi yang wajib di instal karena sangat membantu,LABEL_0
+sangat baik,5,2025-12-08 14:33:49,sangat baik,LABEL_0
+"karena saya baru pindah faskes, ketika ingin melakukan pengambilan antrian selalu muncul pertanyaan , apakah ingin mendaftarkan rekam medis , sudah saya pilih option setuju, tetap saja selalu muncul pertanyaan itu, sehingga saya tidak bisa melakukan pengambilan antrian, kepada tim developer mohon untuk di atasi, agar aplikasi berfungsi seperti seharusnya",1,2025-12-08 14:07:53,karena saya baru pindah faskes ketika ingin melakukan pengambilan antrian selalu muncul pertanyaan  apakah ingin mendaftarkan rekam medis  sudah saya pilih option setuju tetap saja selalu muncul pertanyaan itu sehingga saya tidak bisa melakukan pengambilan antrian kepada tim developer mohon untuk di atasi agar aplikasi berfungsi seperti seharusnya,LABEL_2
+"mau mengaktifkan kembali kartu BPJS kesehatan,",3,2025-12-08 13:57:43,mau mengaktifkan kembali kartu bpjs kesehatan,LABEL_1
+sangat membantu,5,2025-12-08 13:56:55,sangat membantu,LABEL_0
+"lebih baik, semoga lancar selalu",5,2025-12-08 13:42:44,lebih baik semoga lancar selalu,LABEL_0
+pelayanan mudah dan cepat,5,2025-12-08 13:29:25,pelayanan mudah dan cepat,LABEL_0
+aplikasilu ribet sat. nomer tlpn udah bener dibilang salah. mana bikin skck suru bikin bpjs beban lu,1,2025-12-08 13:21:02,aplikasilu ribet sat nomer tlpn udah bener dibilang salah mana bikin skck suru bikin bpjs beban lu,LABEL_2
+baru download semoga bermanfaat,5,2025-12-08 13:06:03,baru download semoga bermanfaat,LABEL_0
+apik tenan,5,2025-12-08 13:05:21,apik tenan,LABEL_0
+aplikasi lebih mudah dan cepat untuk proses administrasi kesehatan,5,2025-12-08 13:04:38,aplikasi lebih mudah dan cepat untuk proses administrasi kesehatan,LABEL_0
+mudah dan bisa ganti faskes,5,2025-12-08 13:02:34,mudah dan bisa ganti faskes,LABEL_1
+Alhamdulillah sekarang aoknya lebih baik dan gk ngekek kyk dulu,4,2025-12-08 12:31:03,alhamdulillah sekarang aoknya lebih baik dan gk ngekek kyk dulu,LABEL_0
+bermafaat untk kesehatan diri,5,2025-12-08 12:19:47,bermafaat untk kesehatan diri,LABEL_0
+kemudahan berobat,5,2025-12-08 12:13:46,kemudahan berobat,LABEL_0
+bagus cepat sigap,5,2025-12-08 12:07:03,bagus cepat sigap,LABEL_0
+2021 ⭐ sekarang sudah bagus sekali aplikasinya trimkasih utk upgrade nya,4,2025-12-08 11:57:15,⭐ sekarang sudah bagus sekali aplikasinya trimkasih utk upgrade nya,LABEL_1
+Tingkat lagi fasilitas untuk masyarakat,4,2025-12-08 11:57:12,tingkat lagi fasilitas untuk masyarakat,LABEL_1
+mudah cepat,5,2025-12-08 11:53:18,mudah cepat,LABEL_0
+layanan terbaik 👍,5,2025-12-08 11:43:29,layanan terbaik 👍,LABEL_0
+"booking H-1 selalu error ga jelas, udah mah sulit, aplikasi nya pun masih sampah",1,2025-12-08 11:12:57,booking h selalu error ga jelas udah mah sulit aplikasi nya pun masih sampah,LABEL_2
+bagus,5,2025-12-08 11:06:55,bagus,LABEL_0
+sangat membantu,5,2025-12-08 11:05:25,sangat membantu,LABEL_0
+sangat membantu,5,2025-12-08 10:51:26,sangat membantu,LABEL_0
+Saya ko tidak menerima nomor otp dari jkn,1,2025-12-08 10:41:14,saya ko tidak menerima nomor otp dari jkn,LABEL_1
+sangat membantu masyarakat,5,2025-12-08 10:36:10,sangat membantu masyarakat,LABEL_0
+aplikasi ini sangat berguna🩷,5,2025-12-08 10:25:35,aplikasi ini sangat berguna🩷,LABEL_0
+ok,5,2025-12-08 10:15:48,ok,LABEL_0
+bagaian aotu debet harus pake mama verifikasi ga keluar kodenya saya lau mindahin faske ga bisa bisa tolong ya saya ingin mindahin faskes,1,2025-12-08 10:13:54,bagaian aotu debet harus pake mama verifikasi ga keluar kodenya saya lau mindahin faske ga bisa bisa tolong ya saya ingin mindahin faskes,LABEL_1
+Tolonglah masa cuman tutup app bentar buat lihat verifikasi WhatsApp langsung keulang proses daftarnya lagi,1,2025-12-08 10:04:42,tolonglah masa cuman tutup app bentar buat lihat verifikasi whatsapp langsung keulang proses daftarnya lagi,LABEL_2
+mantap,5,2025-12-08 09:57:18,mantap,LABEL_0
+suka erro aja sih klau sering2 di buka pdhal siyal full,4,2025-12-08 09:54:11,suka erro aja sih klau sering di buka pdhal siyal full,LABEL_0
+trmkasih,5,2025-12-08 09:43:54,trmkasih,LABEL_0
+"Aplikasi yang sangat membantu, terimakasih",5,2025-12-08 09:35:28,aplikasi yang sangat membantu terimakasih,LABEL_0
+Cukup baik,4,2025-12-08 09:27:35,cukup baik,LABEL_0
+"kinerja apk nya buruk,, susah log in..",1,2025-12-08 09:26:00,kinerja apk nya buruk susah log in,LABEL_2
+good,5,2025-12-08 09:23:42,good,LABEL_0
+"semua aplikasi plat merah (pemerintah) busuk semua. registrasi di aplikasi sulitnya bukan main, recognition wajah gagal terus",1,2025-12-08 09:15:07,semua aplikasi plat merah pemerintah busuk semua registrasi di aplikasi sulitnya bukan main recognition wajah gagal terus,LABEL_2
+aplikasi rusak. permintaan tidak dapat diproses tunggu beberapa saat lagi. beberapa saat berapa lama? udh 2 hari gitu terus. bikin aplikasi yg bener jangan korupsi doang diprioritasin,1,2025-12-08 09:13:06,aplikasi rusak permintaan tidak dapat diproses tunggu beberapa saat lagi beberapa saat berapa lama udh  hari gitu terus bikin aplikasi yg bener jangan korupsi doang diprioritasin,LABEL_2
+jelas dan akurat dan memudahkan,5,2025-12-08 09:04:41,jelas dan akurat dan memudahkan,LABEL_1
+bagus siip,5,2025-12-08 09:02:27,bagus siip,LABEL_0
+tiap verifikasi balik deui KA awal susah daftar,1,2025-12-08 08:55:49,tiap verifikasi balik deui ka awal susah daftar,LABEL_2
+mantap,5,2025-12-08 08:49:31,mantap,LABEL_0
+Kalau lupa kata sandi...dan kirim kode ke nomor yang terdaftar gak masuk2. jelek nya...,2,2025-12-08 08:49:09,kalau lupa kata sandidan kirim kode ke nomor yang terdaftar gak masuk jelek nya,LABEL_1
+lebih ditingkatkan lagi,5,2025-12-08 08:48:40,lebih ditingkatkan lagi,LABEL_0
+"Chaptcha loading terus tidak bisa terbuka,jadi tidak bisa login. Mohon di perbaiki.",2,2025-12-08 08:48:32,chaptcha loading terus tidak bisa terbukajadi tidak bisa login mohon di perbaiki,LABEL_2
+ok mantapp,5,2025-12-08 08:30:46,ok mantapp,LABEL_0
+"bikin ribett susah aja mau berobat, bener"" gapenting make"" bginian jadi makin bikin lama ribettt gajelasss",1,2025-12-08 08:26:58,bikin ribett susah aja mau berobat bener gapenting make bginian jadi makin bikin lama ribettt gajelasss,LABEL_2
+Good Job,5,2025-12-08 08:26:04,good job,LABEL_0
+Sangat bermanfaat tapi aplikasinya sering error. jelek,1,2025-12-08 08:25:02,sangat bermanfaat tapi aplikasinya sering error jelek,LABEL_2
+"aplikasi burik, terus2an ga bisa, ganguan ntah apa yang gangguan padahal semua aman dari jaringan sampai apk udah versi update",1,2025-12-08 08:22:29,aplikasi burik terusan ga bisa ganguan ntah apa yang gangguan padahal semua aman dari jaringan sampai apk udah versi update,LABEL_2
+layanan cepat dan akurat,5,2025-12-08 08:19:52,layanan cepat dan akurat,LABEL_0
+bagus,5,2025-12-08 08:12:28,bagus,LABEL_0
+daftar online nya gak bisa boss... gak efisien,5,2025-12-08 08:09:28,daftar online nya gak bisa boss gak efisien,LABEL_2
+mantap,5,2025-12-08 07:56:18,mantap,LABEL_0
+baik,5,2025-12-08 07:51:21,baik,LABEL_0
+"biasa aplikasi pemerintah, ribet ndk gak jelas. mo login aja di putar².",1,2025-12-08 07:47:10,biasa aplikasi pemerintah ribet ndk gak jelas mo login aja di putar²,LABEL_2
+bagus,5,2025-12-08 07:46:18,bagus,LABEL_0
+ga bisa d buka eror trus,2,2025-12-08 07:35:39,ga bisa d buka eror trus,LABEL_2
+"Tinggal tingkat kan untuk Verifikasi Wajah , sering Gagal klu di gunakan 🙂",5,2025-12-08 07:20:22,tinggal tingkat kan untuk verifikasi wajah  sering gagal klu di gunakan 🙂,LABEL_2
+aplikasinya keren,5,2025-12-08 07:06:39,aplikasinya keren,LABEL_0
+mantap,5,2025-12-08 07:06:04,mantap,LABEL_0
+Sangat membantu,5,2025-12-08 06:59:05,sangat membantu,LABEL_0
+"mohon maaf ini tiket yg sudah dipesan tidak bisa di screenshot, terus klo mau cari lagi dimana? kurang informatif nama menunya dan juga saya masih bingung cara ubah email terdaftar, liat di tiktok atau hubungi call center malah ditutup wkwkkkk jgn mempersulit lah!",3,2025-12-08 06:56:16,mohon maaf ini tiket yg sudah dipesan tidak bisa di screenshot terus klo mau cari lagi dimana kurang informatif nama menunya dan juga saya masih bingung cara ubah email terdaftar liat di tiktok atau hubungi call center malah ditutup wkwkkkk jgn mempersulit lah,LABEL_2
+kasih bintang 5 biar gak apa kali,5,2025-12-08 06:53:13,kasih bintang  biar gak apa kali,LABEL_2
+awal yang bagus,4,2025-12-08 06:52:18,awal yang bagus,LABEL_0
+bagus lah membantu gk ribet,5,2025-12-08 06:37:16,bagus lah membantu gk ribet,LABEL_0
+gak bisa login,1,2025-12-08 06:24:48,gak bisa login,LABEL_2
+pelayanan online nya sangat cepat dan udah terimakasih 🙏,5,2025-12-08 06:20:29,pelayanan online nya sangat cepat dan udah terimakasih 🙏,LABEL_0
+"tidak bisa mengirim penilaian kesan n pesan stelah berobat ,, gagal terussss",2,2025-12-08 06:01:15,tidak bisa mengirim penilaian kesan n pesan stelah berobat  gagal terussss,LABEL_2
+"baik ,hanya saja suka keluar secara tiba tiba",5,2025-12-08 06:00:56,baik hanya saja suka keluar secara tiba tiba,LABEL_2
+"bro,perbaiki lagi system antriannya,saat pas mau kontrol ke faskes 3 mesti ga muncul rujukannya padahal sudah daftar ke faskes 3",1,2025-12-08 05:53:25,broperbaiki lagi system antriannyasaat pas mau kontrol ke faskes  mesti ga muncul rujukannya padahal sudah daftar ke faskes,LABEL_1
+Mantap Betul aplikasinya..Banyak bermanfaat buat semua orang.,5,2025-12-08 05:52:25,mantap betul aplikasinyabanyak bermanfaat buat semua orang,LABEL_0
+godd job,5,2025-12-08 05:49:29,godd job,LABEL_0
+"aplikasi tidak jelas, selalu ke logout sendiri. bukannya mempermudah malah menyusahkan.",1,2025-12-08 05:42:48,aplikasi tidak jelas selalu ke logout sendiri bukannya mempermudah malah menyusahkan,LABEL_2
+gak bisa digunakan,1,2025-12-08 05:41:19,gak bisa digunakan,LABEL_2
+"bermanfaat, good job",5,2025-12-08 05:30:50,bermanfaat good job,LABEL_0
+sangat membantu kesehatan terjamin,5,2025-12-08 05:28:21,sangat membantu kesehatan terjamin,LABEL_0
+"sangat amat membantu ,biarkan bintang yg mnjwb",5,2025-12-08 05:26:56,sangat amat membantu biarkan bintang yg mnjwb,LABEL_0
+good,5,2025-12-08 05:24:14,good,LABEL_0
+mudah,5,2025-12-08 05:21:06,mudah,LABEL_0
+jd lebih mudah karena ada apk ini,5,2025-12-08 05:15:11,jd lebih mudah karena ada apk ini,LABEL_1
+kartu bpjs bapak dan mama ku keluar setelah di perbaharui yang tersisa hanya kartu bpjsku saja,3,2025-12-08 05:06:00,kartu bpjs bapak dan mama ku keluar setelah di perbaharui yang tersisa hanya kartu bpjsku saja,LABEL_1
+terimakasih sangat membantu,5,2025-12-08 05:05:19,terimakasih sangat membantu,LABEL_0
+sangat baik,5,2025-12-08 04:57:07,sangat baik,LABEL_0
+nice,5,2025-12-08 04:36:11,nice,LABEL_0
+mantap.,5,2025-12-08 04:34:51,mantap,LABEL_0
+mantab,5,2025-12-08 04:32:59,mantab,LABEL_0
+aplikasi ini sangat membantu dan mempermudah dalam pengurusan pelayanan kesehatan,5,2025-12-08 04:29:48,aplikasi ini sangat membantu dan mempermudah dalam pengurusan pelayanan kesehatan,LABEL_0
+ok,5,2025-12-08 04:25:25,ok,LABEL_0
+GOOD,5,2025-12-08 04:16:00,good,LABEL_0
+aplikasi mantaff,5,2025-12-08 04:12:00,aplikasi mantaff,LABEL_0
+ok,5,2025-12-08 04:07:21,ok,LABEL_0
+aplikasi bukan ngebantu malah bikin pusing. logout sendiri pas masuk salah pasword jelas jelas pasword udh gua tulis di kertas masa salah. aplikasi bikin pusing ga ngebantu sama sekali,1,2025-12-08 04:06:25,aplikasi bukan ngebantu malah bikin pusing logout sendiri pas masuk salah pasword jelas jelas pasword udh gua tulis di kertas masa salah aplikasi bikin pusing ga ngebantu sama sekali,LABEL_2
+"aplikasi gak guna, minta pin, tapi gak bisa masukin pin otomatis nya,",1,2025-12-08 04:05:12,aplikasi gak guna minta pin tapi gak bisa masukin pin otomatis nya,LABEL_1
+"sangat ribet,tanggalnya tidak muncul terus,,apk jelek harus si perbaiki,,kalau yang sakit parah udah mati duluan.",1,2025-12-08 03:54:52,sangat ribettanggalnya tidak muncul terusapk jelek harus si perbaikikalau yang sakit parah udah mati duluan,LABEL_2
+"EH KENAPA NOMOR GUA GAK TERLACAK PADAHAL GUA BAYAR.... APA PERLU NGAMUK DI KANTOR LOE... KENAPA NOMOR RUJUKAN BEDA2 INI KENAPA YA MUMET GUA NGURUSIN ATURAN PEMERINTAH INI. ATURAN BPJS BEDA DENGAN RUMAH SAKIT. PANTAS KALO BANYAK YANG NGAMUK SUDAH PELAYANANNYA LAMA, JELEK BANGET",1,2025-12-08 03:54:28,eh kenapa nomor gua gak terlacak padahal gua bayar apa perlu ngamuk di kantor loe kenapa nomor rujukan beda ini kenapa ya mumet gua ngurusin aturan pemerintah ini aturan bpjs beda dengan rumah sakit pantas kalo banyak yang ngamuk sudah pelayanannya lama jelek banget,LABEL_2
+gabisa bikin apps,1,2025-12-08 03:49:38,gabisa bikin apps,LABEL_2
+bagus sgat membantu,5,2025-12-08 03:43:50,bagus sgat membantu,LABEL_0
+good,5,2025-12-08 03:41:53,good,LABEL_0
+aplikasi bobrok di buka aja gak bisa,1,2025-12-08 03:41:13,aplikasi bobrok di buka aja gak bisa,LABEL_2
+saat mendaftar mendapat banyak kesulitan ini salah itu salah Jahat banget sih bukan nya dipermudah apa apa sulit aplikasi jahat,1,2025-12-08 03:37:54,saat mendaftar mendapat banyak kesulitan ini salah itu salah jahat banget sih bukan nya dipermudah apa apa sulit aplikasi jahat,LABEL_2
+terimakasih sangat membantu untuk berobat keluarga saya,5,2025-12-08 03:34:22,terimakasih sangat membantu untuk berobat keluarga saya,LABEL_0
+bagus,5,2025-12-08 03:34:13,bagus,LABEL_0
+membantu banget,5,2025-12-08 03:30:20,membantu banget,LABEL_0
+"tolong, kembalikan aplikasinya seperti yang lalu. masa ambil antrean saja tidak bisa discreenshot. tidak semua orang punya ponsel masing2. minimal bisa di screenshot. toh, cuman nomor antrian untuk di tunjukkan ke petugas medis saja.",2,2025-12-08 03:24:16,tolong kembalikan aplikasinya seperti yang lalu masa ambil antrean saja tidak bisa discreenshot tidak semua orang punya ponsel masing minimal bisa di screenshot toh cuman nomor antrian untuk di tunjukkan ke petugas medis saja,LABEL_2
+pelayanan sangat baik,5,2025-12-08 03:19:35,pelayanan sangat baik,LABEL_0
+susah sekali mau daftar... di bagian verifikasi wajahh selalu gagal.. ada 1 jam lebih verifikasi wajah selalu gagal... mempersulit !!!!,1,2025-12-08 03:17:29,susah sekali mau daftar di bagian verifikasi wajahh selalu gagal ada  jam lebih verifikasi wajah selalu gagal mempersulit,LABEL_2
+mudah praktis,5,2025-12-08 03:15:51,mudah praktis,LABEL_0
+ok membantu,5,2025-12-08 03:15:45,ok membantu,LABEL_0
+"aplikasi eror, tidak bisa pindah faskes dan pengaduan.",1,2025-12-08 03:14:11,aplikasi eror tidak bisa pindah faskes dan pengaduan,LABEL_2
+burukk bangettt knpa akhir² ini aplikasny sering trouble jdi malas makeee,1,2025-12-08 03:13:29,burukk bangettt knpa akhir² ini aplikasny sering trouble jdi malas makeee,LABEL_2
+Gimna mau ngirim video layar atau SS orang ngga bisa di ss/v layar .. di page login captcha muter trus ngga nongol-nongol.. kendala kaya gini udah lama banget ngga di betul²in kenapa?,1,2025-12-08 03:12:16,gimna mau ngirim video layar atau ss orang ngga bisa di ssv layar  di page login captcha muter trus ngga nongolnongol kendala kaya gini udah lama banget ngga di betul²in kenapa,LABEL_2
+JELEK PISAN JKN NYA susah login mulu,1,2025-12-08 03:09:12,jelek pisan jkn nya susah login mulu,LABEL_2
+bagus,5,2025-12-08 03:07:50,bagus,LABEL_0
+"bukanya mempermudah malah mempersulit, kalau belum siap digitalisasi jangan maksain yang ada kaya gini. orang mau berobat dibuat susah gara2 aplikasi eror Mulu",1,2025-12-08 03:03:39,bukanya mempermudah malah mempersulit kalau belum siap digitalisasi jangan maksain yang ada kaya gini orang mau berobat dibuat susah gara aplikasi eror mulu,LABEL_2
+app kurang berkualitas mohon di upgrade biar gak lemot,1,2025-12-08 03:00:25,app kurang berkualitas mohon di upgrade biar gak lemot,LABEL_2
+"aplikasi paling jelek sering pisan gangguan, kalau bukan karna diwajibkan oleh si bpjs mah gak mungkin saya instal aplikasi ini",1,2025-12-08 03:00:07,aplikasi paling jelek sering pisan gangguan kalau bukan karna diwajibkan oleh si bpjs mah gak mungkin saya instal aplikasi ini,LABEL_2
+harus di tingkatkan lagi apknya. kenapa harus logout melulu. dan login lagi. ribettt,3,2025-12-08 02:59:57,harus di tingkatkan lagi apknya kenapa harus logout melulu dan login lagi ribettt,LABEL_2
+"apk jelek banget loading terus padahal internet bagus, administrasi kesehatan kek gini memperibet",1,2025-12-08 02:59:14,apk jelek banget loading terus padahal internet bagus administrasi kesehatan kek gini memperibet,LABEL_2
+ok,5,2025-12-08 02:57:14,ok,LABEL_0
+"tiap hari senin eror mulu, kasian pasien nunggu lama",1,2025-12-08 02:51:21,tiap hari senin eror mulu kasian pasien nunggu lama,LABEL_2
+woooiiii .. udh pembaharuan mlh ga bs masuk bnjiiiirrr !!!,1,2025-12-08 02:51:17,woooiiii  udh pembaharuan mlh ga bs masuk bnjiiiirrr,LABEL_2
+"knpa ini akun keluar2 sendiri.. pas login lagi ga bisa2 .. padahal sinyal bagus tp yg katanya captcha salah kek, nik salah kek, sandi salah kek .. pdhal bener semua .. karna saya save sandi jd gak mungkin banget saya lupa karna saya lihat gak ingat2 🫩 pdhal mau buat lihat kartu BPJS anak saya besok mau dibuat posyandu..",1,2025-12-08 02:51:12,knpa ini akun keluar sendiri pas login lagi ga bisa  padahal sinyal bagus tp yg katanya captcha salah kek nik salah kek sandi salah kek  pdhal bener semua  karna saya save sandi jd gak mungkin banget saya lupa karna saya lihat gak ingat 🫩 pdhal mau buat lihat kartu bpjs anak saya besok mau dibuat posyandu,LABEL_1
+"dari awal download stelah update ga bisa masuk aplikasi dikarenakan capcha tidak muncul, bagaimana ini solusinya ????????????????????????????",1,2025-12-08 02:50:52,dari awal download stelah update ga bisa masuk aplikasi dikarenakan capcha tidak muncul bagaimana ini solusinya,LABEL_2
+"ribet sumpah kalo udh daftar sesuai data nomor HP dan lain lain mintak ,nomor lain pulak yang di kasih di mintak ganti harus hubungin ribet kali katanya nunggu besok udh di tunggu gk ada jawaban mau ngurus aja ribet amat . kalo bisa buat lah di profile itu atau ganti email sama nomor HP biar gampang ini mau ganti harus chat dulu udh verikasi wajah gagal mulu verifikasi nomor malah nomor lain yang di data bisa bisanya nomor lama aku yang di masukan nomor itu gk ada",2,2025-12-08 02:50:46,ribet sumpah kalo udh daftar sesuai data nomor hp dan lain lain mintak nomor lain pulak yang di kasih di mintak ganti harus hubungin ribet kali katanya nunggu besok udh di tunggu gk ada jawaban mau ngurus aja ribet amat  kalo bisa buat lah di profile itu atau ganti email sama nomor hp biar gampang ini mau ganti harus chat dulu udh verikasi wajah gagal mulu verifikasi nomor malah nomor lain yang di data bisa bisanya nomor lama aku yang di masukan nomor itu gk ada,LABEL_2
